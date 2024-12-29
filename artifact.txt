@@ -1,0 +1,1188 @@
+sands EchoesOfAnOffering 5 20 def_ hp_:11.1 enerRech_:5.8 atk:51.0 critDMG_:21.8 
+plume VermillionHereafter 5 20 atk critRate_:9.7 critDMG_:14.0 def:42.0 hp:209.0 
+circlet VermillionHereafter 5 20 critRate_ def_:13.1 atk:16.0 enerRech_:16.2 critDMG_:13.2 
+flower HuskOfOpulentDreams 5 20 hp eleMas:23.0 def_:16.0 critDMG_:17.9 def:23.0 
+flower HuskOfOpulentDreams 5 20 hp critDMG_:6.2 def_:20.4 def:42.0 hp_:10.5 
+plume HuskOfOpulentDreams 5 20 atk critDMG_:19.4 critRate_:3.5 def:79.0 enerRech_:6.5 
+plume HuskOfOpulentDreams 5 20 atk atk_:14.0 eleMas:23.0 critRate_:13.2 critDMG_:7.0 
+plume HuskOfOpulentDreams 5 20 atk def_:12.4 def:86.0 critRate_:2.7 critDMG_:7.0 
+sands HuskOfOpulentDreams 5 20 def_ atk:31.0 hp:717.0 atk_:11.7 critRate_:7.4 
+goblet HuskOfOpulentDreams 5 20 anemo_dmg_ critDMG_:7.8 enerRech_:11.0 hp:239.0 hp_:25.1 
+goblet HuskOfOpulentDreams 5 20 geo_dmg_ def:16.0 critDMG_:12.4 enerRech_:5.2 atk_:22.2 
+circlet HuskOfOpulentDreams 5 20 critRate_ enerRech_:17.5 def_:5.8 hp_:9.9 hp:538.0 
+circlet HuskOfOpulentDreams 5 20 critRate_ def_:5.1 atk_:10.5 enerRech_:11.7 def:63.0 
+goblet EmblemOfSeveredFate 5 20 anemo_dmg_ atk_:9.3 def:42.0 critDMG_:10.9 hp:418.0 
+circlet EmblemOfSeveredFate 5 20 critDMG_ critRate_:2.7 atk_:10.5 def_:11.7 def:60.0 
+flower TenacityOfTheMillelith 5 20 hp def_:13.1 eleMas:58.0 critDMG_:19.4 atk_:5.8 
+plume TenacityOfTheMillelith 5 20 atk atk_:5.8 eleMas:61.0 def:67.0 hp_:9.9 
+sands TenacityOfTheMillelith 5 20 hp_ eleMas:40.0 def:37.0 atk:33.0 hp:508.0 
+goblet TenacityOfTheMillelith 5 20 hp_ atk_:24.5 enerRech_:5.2 def:16.0 critDMG_:7.0 
+plume NoblesseOblige 5 20 atk atk_:9.3 critRate_:10.5 enerRech_:4.5 hp_:11.7 
+goblet NoblesseOblige 5 20 hp_ enerRech_:16.2 critRate_:3.5 atk_:8.2 atk:33.0 
+flower CrimsonWitchOfFlames 5 20 hp atk:14.0 enerRech_:18.1 eleMas:44.0 critRate_:9.7 
+plume CrimsonWitchOfFlames 5 20 atk critDMG_:25.7 eleMas:23.0 critRate_:9.3 atk_:5.3 
+plume CrimsonWitchOfFlames 5 20 atk critRate_:12.1 eleMas:23.0 hp_:10.5 enerRech_:10.4 
+plume CrimsonWitchOfFlames 5 20 atk hp:538.0 critDMG_:17.1 critRate_:6.6 enerRech_:4.5 
+sands CrimsonWitchOfFlames 5 20 hp_ eleMas:75.0 critRate_:2.7 atk:16.0 critDMG_:12.4 
+sands CrimsonWitchOfFlames 5 20 hp_ atk:33.0 critDMG_:19.4 atk_:5.3 enerRech_:9.7 
+circlet CrimsonWitchOfFlames 5 20 critRate_ hp:448.0 critDMG_:14.8 eleMas:56.0 enerRech_:11.0 
+circlet CrimsonWitchOfFlames 5 20 critRate_ enerRech_:6.5 atk:37.0 hp_:16.3 critDMG_:14.0 
+circlet CrimsonWitchOfFlames 5 20 critRate_ enerRech_:11.0 atk:47.0 atk_:10.5 def:21.0 
+sands WanderersTroupe 5 20 def_ critRate_:10.9 critDMG_:6.2 enerRech_:5.8 def:76.0 
+flower ViridescentVenerer 5 20 hp def:19.0 atk_:4.1 critDMG_:23.3 critRate_:9.3 
+flower ViridescentVenerer 5 20 hp critRate_:6.6 critDMG_:10.9 def:51.0 hp_:4.7 
+sands ViridescentVenerer 5 20 atk_ critDMG_:28.8 hp_:4.7 enerRech_:10.4 def:39.0 
+plume GladiatorsFinale 5 20 atk eleMas:77.0 enerRech_:10.4 critDMG_:12.4 hp:209.0 
+circlet GladiatorsFinale 5 20 critDMG_ critRate_:7.0 def:23.0 hp:1016.0 eleMas:21.0 
+circlet GladiatorsFinale 5 20 critRate_ atk:51.0 enerRech_:9.1 eleMas:42.0 atk_:4.1 
+plume BlizzardStrayer 5 20 atk atk_:8.7 def:37.0 critRate_:3.1 critDMG_:26.4 
+circlet BlizzardStrayer 5 20 critRate_ eleMas:65.0 hp:508.0 critDMG_:12.4 atk:35.0 
+circlet BlizzardStrayer 5 20 critDMG_ enerRech_:10.4 atk:18.0 critRate_:5.4 atk_:14.6 
+plume VermillionHereafter 5 18 atk hp:269.0 enerRech_:4.5 critRate_:10.1 def:39.0 
+plume EmblemOfSeveredFate 5 16 atk critRate_:8.9 enerRech_:9.1 hp:508.0 atk_:4.1 
+flower NoblesseOblige 5 16 hp hp_:4.1 atk_:8.7 enerRech_:11.0 eleMas:42.0 
+flower ViridescentVenerer 5 16 hp eleMas:40.0 def:19.0 enerRech_:13.0 critDMG_:19.4 
+plume ViridescentVenerer 5 16 atk def:60.0 atk_:8.2 enerRech_:11.0 eleMas:19.0 
+circlet GladiatorsFinale 5 16 critRate_ def:37.0 atk_:11.1 def_:7.3 enerRech_:11.0 
+sands BlizzardStrayer 5 16 atk_ atk:72.0 hp:299.0 critDMG_:7.8 enerRech_:10.4 
+flower NoblesseOblige 5 14 hp eleMas:61.0 atk:19.0 atk_:4.7 critRate_:3.9 
+plume VermillionHereafter 5 13 atk hp_:9.9 critDMG_:5.4 atk_:9.3 hp:239.0 
+goblet TenacityOfTheMillelith 5 13 electro_dmg_ eleMas:40.0 atk:33.0 def_:11.7 enerRech_:6.5 
+sands VermillionHereafter 5 12 hp_ enerRech_:12.3 critDMG_:7.0 eleMas:23.0 hp:777.0 
+circlet NoblesseOblige 5 12 heal_ hp:209.0 atk:29.0 def_:6.6 critDMG_:13.2 
+flower CrimsonWitchOfFlames 5 12 hp critRate_:7.4 hp_:5.8 enerRech_:11.7 def_:7.3 
+sands ViridescentVenerer 5 12 enerRech_ critRate_:3.1 def_:16.8 critDMG_:10.9 hp_:5.8 
+sands NoblesseOblige 5 11 atk_ enerRech_:5.2 hp:239.0 eleMas:23.0 hp_:8.7 
+sands VermillionHereafter 5 8 atk_ def_:7.3 critRate_:7.8 enerRech_:5.8 hp:269.0 
+plume HuskOfOpulentDreams 5 8 atk enerRech_:9.7 eleMas:33.0 critDMG_:5.4 def:19.0 
+circlet HuskOfOpulentDreams 5 8 hp_ hp:299.0 eleMas:19.0 atk:27.0 def:37.0 
+flower CrimsonWitchOfFlames 5 8 hp hp_:4.1 atk_:5.3 critDMG_:7.8 def:46.0 
+sands VermillionHereafter 5 7 atk_ hp:299.0 def:23.0 enerRech_:5.2 atk:16.0 
+sands HuskOfOpulentDreams 5 6 def_ def:19.0 hp:209.0 enerRech_:5.8 hp_:5.8 
+plume VermillionHereafter 5 5 atk critDMG_:6.2 enerRech_:5.8 def_:7.3 hp_:4.1 
+plume VermillionHereafter 5 4 atk eleMas:16.0 critRate_:2.7 def:23.0 hp:299.0 
+circlet VermillionHereafter 5 4 critDMG_ atk_:4.7 enerRech_:4.5 def:21.0 def_:5.1 
+sands NoblesseOblige 5 4 hp_ critRate_:3.5 atk_:5.3 def_:5.8 def:19.0 
+sands CrimsonWitchOfFlames 5 4 hp_ critDMG_:5.4 def:16.0 enerRech_:5.8 hp:299.0 
+flower BlizzardStrayer 5 4 hp hp_:4.7 critRate_:3.5 enerRech_:4.5 def_:6.6 
+flower GoldenTroupe 5 0 hp critRate_:2.7 atk_:5.8 def:23.0 
+plume GoldenTroupe 5 0 atk critDMG_:7.8 eleMas:19.0 def:16.0 
+goblet GoldenTroupe 5 0 atk_ enerRech_:5.2 atk:19.0 eleMas:16.0 critRate_:3.9 
+flower MarechausseeHunter 5 0 hp enerRech_:6.5 eleMas:16.0 hp_:4.1 critRate_:2.7 
+goblet MarechausseeHunter 5 0 physical_dmg_ eleMas:21.0 critDMG_:7.8 enerRech_:5.8 
+flower FlowerOfParadiseLost 5 0 hp hp_:4.1 eleMas:16.0 def_:5.1 
+circlet FlowerOfParadiseLost 5 0 atk_ hp_:4.7 critDMG_:6.2 def:16.0 
+flower DesertPavilionChronicle 5 0 hp critRate_:3.5 atk_:5.8 critDMG_:5.4 
+flower GildedDreams 5 0 hp def:19.0 atk:16.0 eleMas:23.0 
+plume GildedDreams 5 0 atk def_:5.8 critRate_:3.9 def:23.0 critDMG_:7.0 
+sands DeepwoodMemories 5 0 eleMas atk:14.0 def:19.0 hp:269.0 
+goblet DeepwoodMemories 5 0 hydro_dmg_ def_:5.1 critDMG_:5.4 atk_:5.8 hp:239.0 
+goblet DeepwoodMemories 5 0 electro_dmg_ hp_:5.8 critRate_:3.9 def_:5.8 
+flower EchoesOfAnOffering 5 0 hp critRate_:3.5 enerRech_:4.5 eleMas:21.0 
+flower EchoesOfAnOffering 5 0 hp critDMG_:5.4 enerRech_:4.5 atk_:4.7 
+flower EchoesOfAnOffering 5 0 hp critRate_:3.5 critDMG_:7.8 atk:16.0 
+plume EchoesOfAnOffering 5 0 atk critRate_:3.1 atk_:4.1 enerRech_:4.5 
+sands EchoesOfAnOffering 5 0 hp_ critDMG_:6.2 hp:209.0 atk_:5.3 def_:5.1 
+sands EchoesOfAnOffering 5 0 enerRech_ critDMG_:6.2 hp_:4.1 hp:209.0 
+sands EchoesOfAnOffering 5 0 def_ hp:299.0 critDMG_:7.8 atk_:5.8 
+sands EchoesOfAnOffering 5 0 atk_ enerRech_:5.2 eleMas:23.0 atk:16.0 
+goblet EchoesOfAnOffering 5 0 def_ critRate_:2.7 def:21.0 critDMG_:7.8 atk_:5.3 
+goblet EchoesOfAnOffering 5 0 def_ hp_:5.3 atk:19.0 critDMG_:6.2 
+goblet EchoesOfAnOffering 5 0 anemo_dmg_ eleMas:23.0 hp:209.0 hp_:5.8 
+goblet EchoesOfAnOffering 5 0 electro_dmg_ critDMG_:7.8 def:16.0 atk:18.0 
+goblet EchoesOfAnOffering 5 0 cryo_dmg_ hp:269.0 def_:5.1 eleMas:21.0 
+goblet EchoesOfAnOffering 5 0 electro_dmg_ atk:16.0 critRate_:3.1 def_:5.1 
+goblet EchoesOfAnOffering 5 0 hp_ def:16.0 critDMG_:6.2 critRate_:2.7 
+goblet EchoesOfAnOffering 5 0 pyro_dmg_ def:19.0 def_:6.6 critDMG_:6.2 
+circlet EchoesOfAnOffering 5 0 atk_ def:23.0 enerRech_:6.5 critDMG_:6.2 critRate_:3.1 
+circlet EchoesOfAnOffering 5 0 eleMas atk_:4.1 critRate_:2.7 def_:5.1 critDMG_:7.0 
+circlet EchoesOfAnOffering 5 0 heal_ critDMG_:7.0 enerRech_:5.2 hp:299.0 
+circlet EchoesOfAnOffering 5 0 atk_ def:21.0 hp:239.0 critDMG_:6.2 
+circlet EchoesOfAnOffering 5 0 atk_ def:16.0 eleMas:19.0 atk:18.0 
+circlet EchoesOfAnOffering 5 0 critRate_ hp_:4.7 def:19.0 atk_:5.8 
+circlet EchoesOfAnOffering 5 0 heal_ atk:19.0 hp:209.0 atk_:4.1 
+flower VermillionHereafter 5 0 hp enerRech_:5.8 atk_:4.1 atk:16.0 critRate_:3.9 
+flower VermillionHereafter 5 0 hp enerRech_:6.5 eleMas:21.0 critRate_:3.5 
+sands VermillionHereafter 5 0 enerRech_ atk_:5.3 eleMas:21.0 atk:18.0 def:19.0 
+sands VermillionHereafter 5 0 eleMas hp:209.0 critRate_:3.5 def_:5.8 
+sands VermillionHereafter 5 0 def_ atk_:4.7 critRate_:2.7 def:19.0 
+goblet VermillionHereafter 5 0 atk_ atk:18.0 critRate_:3.5 hp:239.0 eleMas:21.0 
+goblet VermillionHereafter 5 0 atk_ eleMas:21.0 hp_:4.7 critDMG_:7.8 
+goblet VermillionHereafter 5 0 def_ hp_:4.1 critDMG_:7.8 critRate_:3.9 
+circlet VermillionHereafter 5 0 critRate_ enerRech_:5.8 hp:299.0 eleMas:16.0 
+circlet VermillionHereafter 5 0 heal_ hp_:4.1 def:21.0 atk:16.0 
+circlet VermillionHereafter 5 0 critRate_ enerRech_:4.5 eleMas:23.0 def:16.0 
+circlet VermillionHereafter 5 0 critRate_ def:23.0 eleMas:19.0 atk:14.0 
+circlet VermillionHereafter 5 0 critDMG_ hp_:5.8 def:21.0 hp:269.0 
+circlet VermillionHereafter 5 0 atk_ hp:209.0 eleMas:16.0 critRate_:3.5 
+plume OceanHuedClam 5 0 atk critRate_:3.1 critDMG_:6.2 hp:269.0 
+flower HuskOfOpulentDreams 5 0 hp enerRech_:5.2 def_:5.8 critRate_:3.9 hp_:4.7 
+flower HuskOfOpulentDreams 5 0 hp eleMas:19.0 enerRech_:4.5 atk:18.0 
+plume HuskOfOpulentDreams 5 0 atk critDMG_:7.0 hp:209.0 def_:5.8 hp_:5.3 
+plume HuskOfOpulentDreams 5 0 atk critRate_:3.5 hp:209.0 enerRech_:5.2 eleMas:19.0 
+plume HuskOfOpulentDreams 5 0 atk hp:299.0 def_:5.8 critRate_:3.1 def:19.0 
+sands HuskOfOpulentDreams 5 0 def_ def:21.0 atk:16.0 enerRech_:4.5 
+sands HuskOfOpulentDreams 5 0 def_ hp_:5.8 enerRech_:4.5 eleMas:21.0 
+sands HuskOfOpulentDreams 5 0 eleMas hp_:5.8 enerRech_:4.5 def:23.0 
+goblet HuskOfOpulentDreams 5 0 cryo_dmg_ atk_:4.7 critDMG_:7.8 def:16.0 eleMas:19.0 
+goblet HuskOfOpulentDreams 5 0 electro_dmg_ critDMG_:7.8 hp_:5.3 def_:7.3 enerRech_:6.5 
+goblet HuskOfOpulentDreams 5 0 electro_dmg_ hp_:5.3 def:21.0 critDMG_:5.4 critRate_:3.5 
+goblet HuskOfOpulentDreams 5 0 hydro_dmg_ def:16.0 critDMG_:6.2 atk:18.0 hp_:5.3 
+goblet HuskOfOpulentDreams 5 0 eleMas critDMG_:7.0 def:19.0 critRate_:3.1 
+goblet HuskOfOpulentDreams 5 0 anemo_dmg_ hp:269.0 critDMG_:7.0 def:23.0 
+goblet HuskOfOpulentDreams 5 0 atk_ critDMG_:7.0 critRate_:3.5 atk:14.0 
+goblet HuskOfOpulentDreams 5 0 def_ atk:14.0 atk_:4.1 critRate_:2.7 
+circlet HuskOfOpulentDreams 5 0 critDMG_ hp:209.0 eleMas:23.0 atk:19.0 hp_:4.7 
+circlet HuskOfOpulentDreams 5 0 critDMG_ def:23.0 hp:269.0 eleMas:16.0 
+circlet HuskOfOpulentDreams 5 0 critDMG_ def:23.0 hp:239.0 eleMas:19.0 
+flower EmblemOfSeveredFate 5 0 hp critRate_:3.9 enerRech_:5.2 hp_:4.7 
+flower EmblemOfSeveredFate 5 0 hp enerRech_:6.5 eleMas:16.0 critRate_:2.7 
+flower EmblemOfSeveredFate 5 0 hp critRate_:3.5 atk:14.0 def:23.0 
+flower EmblemOfSeveredFate 5 0 hp atk:16.0 enerRech_:4.5 def:19.0 
+flower EmblemOfSeveredFate 5 0 hp atk_:4.1 def_:7.3 enerRech_:4.5 
+sands EmblemOfSeveredFate 5 0 atk_ hp_:4.7 def:23.0 enerRech_:5.8 critDMG_:6.2 
+sands EmblemOfSeveredFate 5 0 def_ hp:299.0 atk_:5.3 enerRech_:5.8 
+sands EmblemOfSeveredFate 5 0 hp_ def:16.0 atk_:4.7 critRate_:3.9 
+sands EmblemOfSeveredFate 5 0 enerRech_ atk:19.0 def_:5.1 eleMas:16.0 
+goblet EmblemOfSeveredFate 5 0 anemo_dmg_ atk:18.0 critRate_:3.5 enerRech_:6.5 
+goblet EmblemOfSeveredFate 5 0 cryo_dmg_ eleMas:23.0 hp:209.0 critDMG_:6.2 
+goblet EmblemOfSeveredFate 5 0 pyro_dmg_ atk_:4.7 def_:5.1 enerRech_:4.5 
+goblet EmblemOfSeveredFate 5 0 hydro_dmg_ def:23.0 enerRech_:5.2 atk:14.0 
+goblet EmblemOfSeveredFate 5 0 hp_ def:23.0 enerRech_:4.5 eleMas:23.0 critRate_:3.1 
+goblet EmblemOfSeveredFate 5 0 hydro_dmg_ hp_:5.8 atk_:4.1 hp:269.0 
+goblet EmblemOfSeveredFate 5 0 def_ enerRech_:6.5 atk_:5.3 def:19.0 
+goblet EmblemOfSeveredFate 5 0 atk_ enerRech_:4.5 hp:299.0 def:16.0 
+circlet EmblemOfSeveredFate 5 0 critDMG_ def:21.0 def_:7.3 atk:18.0 
+circlet EmblemOfSeveredFate 5 0 hp_ def:16.0 hp:239.0 eleMas:21.0 critRate_:3.1 
+circlet EmblemOfSeveredFate 5 0 def_ critDMG_:7.0 eleMas:23.0 def:23.0 hp:299.0 
+circlet EmblemOfSeveredFate 5 0 hp_ atk:14.0 def_:5.1 atk_:5.8 
+circlet EmblemOfSeveredFate 5 0 critDMG_ hp_:5.3 hp:269.0 def_:5.8 
+circlet EmblemOfSeveredFate 5 0 atk_ critDMG_:7.0 def:21.0 enerRech_:5.8 
+circlet EmblemOfSeveredFate 5 0 critDMG_ eleMas:23.0 atk:14.0 hp_:4.7 
+flower ShimenawasReminiscence 5 0 hp critDMG_:7.0 enerRech_:5.8 eleMas:21.0 
+flower ShimenawasReminiscence 5 0 hp critRate_:2.7 def_:7.3 atk_:4.1 
+plume ShimenawasReminiscence 5 0 atk def_:6.6 hp:269.0 eleMas:16.0 
+plume ShimenawasReminiscence 5 0 atk hp_:5.8 enerRech_:5.2 def:16.0 
+plume ShimenawasReminiscence 5 0 atk hp:209.0 eleMas:21.0 critRate_:3.9 
+plume ShimenawasReminiscence 5 0 atk def:19.0 enerRech_:6.5 atk_:5.3 
+plume ShimenawasReminiscence 5 0 atk hp:209.0 critDMG_:5.4 def:16.0 
+sands ShimenawasReminiscence 5 0 eleMas hp:269.0 atk_:4.1 enerRech_:4.5 
+sands ShimenawasReminiscence 5 0 def_ eleMas:16.0 enerRech_:5.2 def:21.0 atk:18.0 
+sands ShimenawasReminiscence 5 0 hp_ atk_:5.3 critDMG_:7.0 def_:5.8 
+sands ShimenawasReminiscence 5 0 eleMas hp:269.0 critRate_:2.7 atk:16.0 
+sands ShimenawasReminiscence 5 0 hp_ eleMas:16.0 critRate_:2.7 hp:239.0 
+circlet ShimenawasReminiscence 5 0 critDMG_ def:16.0 hp:209.0 hp_:4.7 
+circlet ShimenawasReminiscence 5 0 critRate_ hp_:4.7 enerRech_:4.5 hp:269.0 
+circlet ShimenawasReminiscence 5 0 hp_ enerRech_:4.5 hp:209.0 atk:16.0 
+circlet ShimenawasReminiscence 5 0 atk_ critRate_:2.7 hp:299.0 def:23.0 
+flower PaleFlame 5 0 hp atk_:5.3 hp_:5.3 critDMG_:7.8 
+flower PaleFlame 5 0 hp critRate_:3.9 atk:14.0 enerRech_:4.5 
+sands PaleFlame 5 0 atk_ critRate_:3.5 critDMG_:7.0 atk:18.0 
+goblet PaleFlame 5 0 physical_dmg_ hp:209.0 atk_:4.7 enerRech_:6.5 
+flower TenacityOfTheMillelith 5 0 hp critRate_:3.9 hp_:4.1 critDMG_:6.2 eleMas:21.0 
+goblet TenacityOfTheMillelith 5 0 hp_ def:21.0 atk:14.0 hp:269.0 critDMG_:6.2 
+circlet TenacityOfTheMillelith 5 0 critDMG_ atk:16.0 hp_:4.7 enerRech_:6.5 def:23.0 
+plume HeartOfDepth 5 0 atk critDMG_:5.4 hp:239.0 critRate_:3.1 
+plume BloodstainedChivalry 5 0 atk atk_:5.3 hp_:4.1 eleMas:21.0 
+circlet BloodstainedChivalry 5 0 heal_ critDMG_:5.4 eleMas:16.0 atk:18.0 
+circlet BloodstainedChivalry 5 0 critDMG_ eleMas:19.0 def:19.0 hp:269.0 
+plume NoblesseOblige 5 0 atk def_:5.8 critRate_:3.9 atk_:5.8 def:19.0 
+plume NoblesseOblige 5 0 atk enerRech_:6.5 hp_:4.1 atk_:5.3 
+sands NoblesseOblige 5 0 atk_ eleMas:19.0 critDMG_:5.4 def_:6.6 
+sands NoblesseOblige 5 0 atk_ enerRech_:4.5 def:21.0 eleMas:23.0 
+goblet NoblesseOblige 5 0 cryo_dmg_ hp:209.0 def:16.0 eleMas:21.0 critRate_:3.5 
+goblet NoblesseOblige 5 0 physical_dmg_ hp:239.0 critDMG_:5.4 def_:5.8 def:16.0 
+goblet NoblesseOblige 5 0 atk_ hp_:4.7 def:23.0 critDMG_:6.2 
+goblet NoblesseOblige 5 0 pyro_dmg_ atk_:5.3 def:23.0 def_:6.6 
+circlet NoblesseOblige 5 0 heal_ critDMG_:5.4 atk:18.0 hp:269.0 atk_:4.1 
+flower CrimsonWitchOfFlames 5 0 hp critRate_:3.5 hp_:4.1 critDMG_:7.8 enerRech_:6.5 
+flower CrimsonWitchOfFlames 5 0 hp atk_:4.1 eleMas:21.0 enerRech_:5.8 
+flower CrimsonWitchOfFlames 5 0 hp def:16.0 eleMas:16.0 atk:18.0 atk_:4.1 
+flower CrimsonWitchOfFlames 5 0 hp eleMas:19.0 atk:18.0 def_:7.3 atk_:5.3 
+flower CrimsonWitchOfFlames 5 0 hp def:19.0 enerRech_:6.5 def_:6.6 atk_:5.3 
+flower CrimsonWitchOfFlames 5 0 hp critDMG_:7.0 enerRech_:6.5 def:21.0 
+flower CrimsonWitchOfFlames 5 0 hp enerRech_:5.8 eleMas:23.0 atk_:4.7 
+flower CrimsonWitchOfFlames 5 0 hp def:23.0 atk:14.0 eleMas:16.0 
+flower CrimsonWitchOfFlames 5 0 hp def_:6.6 atk:19.0 eleMas:16.0 
+plume CrimsonWitchOfFlames 5 0 atk def:23.0 eleMas:16.0 enerRech_:4.5 hp_:5.8 
+plume CrimsonWitchOfFlames 5 0 atk hp:209.0 def_:6.6 critDMG_:7.8 atk_:5.8 
+plume CrimsonWitchOfFlames 5 0 atk eleMas:19.0 def_:6.6 atk_:4.1 
+plume CrimsonWitchOfFlames 5 0 atk hp:209.0 def_:5.8 def:16.0 
+plume CrimsonWitchOfFlames 5 0 atk hp:209.0 def_:5.8 hp_:4.1 
+plume CrimsonWitchOfFlames 5 0 atk def:23.0 hp:269.0 eleMas:23.0 
+sands CrimsonWitchOfFlames 5 0 atk_ critRate_:3.9 hp:209.0 atk:19.0 critDMG_:7.8 
+sands CrimsonWitchOfFlames 5 0 eleMas atk_:5.3 def_:5.1 hp_:5.8 critDMG_:7.0 
+sands CrimsonWitchOfFlames 5 0 hp_ def_:5.8 critRate_:3.9 def:16.0 atk_:4.1 
+sands CrimsonWitchOfFlames 5 0 eleMas hp:239.0 hp_:5.8 critDMG_:5.4 def_:6.6 
+sands CrimsonWitchOfFlames 5 0 def_ enerRech_:4.5 critRate_:3.5 def:16.0 critDMG_:6.2 
+sands CrimsonWitchOfFlames 5 0 def_ critDMG_:5.4 atk:18.0 hp:269.0 
+sands CrimsonWitchOfFlames 5 0 atk_ def:21.0 hp:239.0 critDMG_:7.8 
+sands CrimsonWitchOfFlames 5 0 atk_ def:21.0 def_:5.1 hp:299.0 
+sands CrimsonWitchOfFlames 5 0 def_ def:23.0 atk_:4.1 critDMG_:7.8 
+sands CrimsonWitchOfFlames 5 0 enerRech_ critDMG_:5.4 hp:299.0 eleMas:16.0 
+sands CrimsonWitchOfFlames 5 0 atk_ atk:18.0 critRate_:3.9 def:21.0 
+goblet CrimsonWitchOfFlames 5 0 atk_ critRate_:2.7 critDMG_:7.8 atk:14.0 
+goblet CrimsonWitchOfFlames 5 0 def_ eleMas:19.0 atk_:5.3 hp:209.0 hp_:5.8 
+goblet CrimsonWitchOfFlames 5 0 electro_dmg_ hp_:4.1 hp:209.0 enerRech_:6.5 eleMas:16.0 
+goblet CrimsonWitchOfFlames 5 0 def_ eleMas:21.0 enerRech_:4.5 critDMG_:5.4 
+goblet CrimsonWitchOfFlames 5 0 geo_dmg_ eleMas:21.0 atk:14.0 def:21.0 
+goblet CrimsonWitchOfFlames 5 0 atk_ eleMas:21.0 def:16.0 critRate_:3.9 
+circlet CrimsonWitchOfFlames 5 0 critDMG_ enerRech_:5.8 atk_:5.3 def_:6.6 
+circlet CrimsonWitchOfFlames 5 0 critDMG_ hp:269.0 eleMas:23.0 enerRech_:5.8 
+circlet CrimsonWitchOfFlames 5 0 hp_ critDMG_:6.2 atk:19.0 hp:239.0 def_:6.6 
+circlet CrimsonWitchOfFlames 5 0 hp_ atk_:4.7 eleMas:16.0 def:19.0 def_:5.1 
+circlet CrimsonWitchOfFlames 5 0 def_ def:23.0 atk:18.0 enerRech_:6.5 hp:269.0 
+circlet CrimsonWitchOfFlames 5 0 def_ critRate_:3.9 hp_:4.1 hp:269.0 
+circlet CrimsonWitchOfFlames 5 0 def_ eleMas:16.0 critDMG_:7.0 atk:14.0 
+circlet CrimsonWitchOfFlames 5 0 atk_ def_:6.6 enerRech_:4.5 def:19.0 
+circlet CrimsonWitchOfFlames 5 0 hp_ def:19.0 def_:5.1 enerRech_:5.2 
+circlet CrimsonWitchOfFlames 5 0 def_ enerRech_:6.5 critRate_:3.1 critDMG_:5.4 
+circlet CrimsonWitchOfFlames 5 0 critDMG_ hp_:4.1 hp:269.0 def:19.0 
+circlet CrimsonWitchOfFlames 5 0 atk_ hp:269.0 hp_:5.3 enerRech_:5.2 
+circlet CrimsonWitchOfFlames 5 0 hp_ def_:7.3 eleMas:16.0 enerRech_:5.2 
+circlet CrimsonWitchOfFlames 5 0 heal_ atk_:4.7 atk:16.0 def:16.0 
+circlet CrimsonWitchOfFlames 5 0 atk_ atk:16.0 def:19.0 enerRech_:4.5 
+circlet CrimsonWitchOfFlames 5 0 hp_ critDMG_:6.2 eleMas:23.0 def:19.0 
+circlet CrimsonWitchOfFlames 5 0 def_ hp:239.0 atk:18.0 atk_:4.1 
+circlet CrimsonWitchOfFlames 5 0 hp_ hp:269.0 def_:5.1 atk:18.0 
+flower ThunderingFury 5 0 hp critDMG_:7.0 hp_:5.8 atk_:4.7 
+plume ThunderingFury 5 0 atk critRate_:3.9 eleMas:23.0 enerRech_:6.5 hp:209.0 
+flower ThunderingFury 5 0 hp eleMas:21.0 critRate_:2.7 def_:6.6 
+plume ThunderingFury 5 0 atk critRate_:2.7 eleMas:23.0 critDMG_:7.8 
+plume ThunderingFury 5 0 atk eleMas:21.0 atk_:5.3 critRate_:2.7 
+sands ThunderingFury 5 0 eleMas def:16.0 critDMG_:7.0 atk:19.0 
+flower WanderersTroupe 5 0 hp hp_:4.7 enerRech_:6.5 critDMG_:6.2 
+flower WanderersTroupe 5 0 hp hp_:5.3 enerRech_:5.2 critDMG_:6.2 
+flower WanderersTroupe 5 0 hp atk:14.0 eleMas:21.0 enerRech_:6.5 
+flower WanderersTroupe 5 0 hp def_:5.8 enerRech_:5.8 critDMG_:7.8 
+flower WanderersTroupe 5 0 hp enerRech_:5.8 def:23.0 critRate_:3.1 
+flower WanderersTroupe 5 0 hp critRate_:2.7 def:16.0 hp_:4.7 
+flower WanderersTroupe 5 0 hp eleMas:21.0 def:19.0 enerRech_:5.2 
+plume WanderersTroupe 5 0 atk hp:239.0 def:16.0 eleMas:21.0 hp_:4.1 
+plume WanderersTroupe 5 0 atk critRate_:2.7 def:23.0 atk_:5.8 enerRech_:5.8 
+plume WanderersTroupe 5 0 atk hp_:5.3 atk_:5.8 critRate_:3.5 
+plume WanderersTroupe 5 0 atk def:21.0 critRate_:2.7 hp:299.0 
+plume WanderersTroupe 5 0 atk critRate_:3.1 def:23.0 hp:299.0 
+plume WanderersTroupe 5 0 atk critDMG_:6.2 atk_:5.3 def:23.0 
+plume WanderersTroupe 5 0 atk critRate_:3.5 enerRech_:6.5 eleMas:21.0 
+sands WanderersTroupe 5 0 def_ critRate_:2.7 critDMG_:6.2 def:23.0 atk:14.0 
+sands WanderersTroupe 5 0 hp_ def:21.0 atk:16.0 hp:299.0 
+sands WanderersTroupe 5 0 hp_ atk:18.0 atk_:4.7 critRate_:2.7 
+goblet WanderersTroupe 5 0 anemo_dmg_ atk_:4.7 hp_:5.8 critRate_:3.9 def:23.0 
+goblet WanderersTroupe 5 0 def_ critDMG_:6.2 critRate_:3.9 enerRech_:4.5 def:19.0 
+goblet WanderersTroupe 5 0 hp_ eleMas:19.0 hp:239.0 enerRech_:6.5 critDMG_:5.4 
+goblet WanderersTroupe 5 0 pyro_dmg_ enerRech_:4.5 atk_:5.8 hp_:5.3 def:21.0 
+goblet WanderersTroupe 5 0 electro_dmg_ atk:16.0 def:23.0 critRate_:3.9 
+goblet WanderersTroupe 5 0 pyro_dmg_ hp:239.0 atk:19.0 enerRech_:5.8 def_:5.1 
+goblet WanderersTroupe 5 0 atk_ def_:5.1 hp:239.0 critDMG_:5.4 
+circlet WanderersTroupe 5 0 eleMas hp_:4.7 enerRech_:5.2 def:21.0 
+circlet WanderersTroupe 5 0 heal_ hp:209.0 critRate_:3.1 eleMas:23.0 
+circlet WanderersTroupe 5 0 atk_ hp_:4.1 hp:239.0 atk:19.0 def:19.0 
+circlet WanderersTroupe 5 0 hp_ def:16.0 enerRech_:5.8 critDMG_:7.8 eleMas:21.0 
+circlet WanderersTroupe 5 0 def_ hp:299.0 atk:18.0 def:21.0 
+circlet WanderersTroupe 5 0 hp_ critDMG_:7.8 atk:18.0 atk_:4.7 
+circlet WanderersTroupe 5 0 heal_ enerRech_:5.8 atk_:5.3 def:19.0 
+circlet WanderersTroupe 5 0 atk_ enerRech_:5.8 hp_:5.8 atk:16.0 
+circlet WanderersTroupe 5 0 atk_ def_:6.6 hp_:5.8 critDMG_:6.2 
+circlet WanderersTroupe 5 0 critDMG_ atk:18.0 hp:209.0 atk_:5.3 
+flower ViridescentVenerer 5 0 hp atk_:4.1 enerRech_:4.5 hp_:4.1 critDMG_:5.4 
+flower ViridescentVenerer 5 0 hp def:16.0 enerRech_:6.5 eleMas:16.0 
+flower ViridescentVenerer 5 0 hp critDMG_:7.8 atk_:4.1 enerRech_:5.2 
+flower ViridescentVenerer 5 0 hp eleMas:16.0 def:23.0 critDMG_:7.0 
+plume ViridescentVenerer 5 0 atk critRate_:3.5 atk_:4.7 hp_:5.3 critDMG_:5.4 
+plume ViridescentVenerer 5 0 atk critDMG_:5.4 critRate_:2.7 def:21.0 
+sands ViridescentVenerer 5 0 hp_ critDMG_:5.4 enerRech_:6.5 atk_:4.7 
+sands ViridescentVenerer 5 0 atk_ def_:5.1 critRate_:3.9 critDMG_:5.4 
+flower GladiatorsFinale 5 0 hp hp_:4.1 atk:16.0 critDMG_:7.8 def:16.0 
+flower GladiatorsFinale 5 0 hp critRate_:3.5 def:19.0 enerRech_:5.8 
+flower GladiatorsFinale 5 0 hp atk_:4.7 critDMG_:7.0 def:19.0 
+flower GladiatorsFinale 5 0 hp hp_:4.7 eleMas:23.0 critRate_:3.9 
+flower GladiatorsFinale 5 0 hp eleMas:16.0 critDMG_:7.8 critRate_:3.5 
+flower GladiatorsFinale 5 0 hp enerRech_:6.5 def:16.0 critDMG_:6.2 
+plume GladiatorsFinale 5 0 atk critRate_:3.1 atk_:4.7 hp_:5.8 
+sands GladiatorsFinale 5 0 atk_ critDMG_:7.0 enerRech_:4.5 hp:239.0 def:16.0 
+sands GladiatorsFinale 5 0 def_ critDMG_:5.4 hp:209.0 enerRech_:6.5 atk:16.0 
+sands GladiatorsFinale 5 0 hp_ def:19.0 critDMG_:5.4 eleMas:19.0 
+sands GladiatorsFinale 5 0 atk_ critRate_:3.9 critDMG_:7.0 hp:239.0 
+goblet GladiatorsFinale 5 0 physical_dmg_ hp:299.0 def_:5.1 critRate_:3.9 critDMG_:7.0 
+goblet GladiatorsFinale 5 0 geo_dmg_ atk:14.0 hp_:5.8 critRate_:3.5 
+goblet GladiatorsFinale 5 0 dendro_dmg_ hp_:5.3 critDMG_:7.0 hp:209.0 
+circlet GladiatorsFinale 5 0 heal_ atk_:5.3 hp_:5.8 critRate_:3.1 atk:14.0 
+circlet GladiatorsFinale 5 0 critDMG_ def:21.0 eleMas:19.0 enerRech_:6.5 
+circlet GladiatorsFinale 5 0 critDMG_ atk:14.0 eleMas:19.0 def:23.0 
+circlet GladiatorsFinale 5 0 atk_ atk:19.0 hp:239.0 critRate_:3.1 
+circlet GladiatorsFinale 5 0 critRate_ def_:6.6 enerRech_:5.8 hp_:4.7 
+sands MaidenBeloved 5 0 hp_ critDMG_:6.2 critRate_:2.7 atk_:4.1 
+circlet MaidenBeloved 5 0 critDMG_ atk:16.0 enerRech_:5.2 atk_:4.7 
+flower Lavawalker 5 0 hp def:21.0 critDMG_:7.0 eleMas:23.0 atk_:5.3 
+flower Lavawalker 5 0 hp eleMas:19.0 def:19.0 enerRech_:5.8 
+flower Lavawalker 5 0 hp critRate_:3.9 def_:5.8 enerRech_:5.2 
+flower Lavawalker 5 0 hp eleMas:16.0 def:23.0 def_:7.3 
+flower Lavawalker 5 0 hp atk:14.0 hp_:4.7 eleMas:19.0 
+flower Lavawalker 5 0 hp hp_:4.7 def:21.0 atk_:4.7 
+plume Lavawalker 5 0 atk atk_:5.3 eleMas:19.0 critDMG_:6.2 
+plume Lavawalker 5 0 atk def:19.0 hp:299.0 critRate_:3.5 enerRech_:4.5 
+plume Lavawalker 5 0 atk def:19.0 enerRech_:5.2 eleMas:16.0 
+sands Lavawalker 5 0 hp_ atk_:4.1 enerRech_:6.5 def:19.0 def_:5.8 
+sands Lavawalker 5 0 hp_ atk:16.0 def_:5.8 eleMas:16.0 
+sands Lavawalker 5 0 atk_ critRate_:2.7 def:23.0 eleMas:21.0 
+sands Lavawalker 5 0 hp_ atk:18.0 def_:7.3 hp:239.0 
+sands Lavawalker 5 0 hp_ hp:239.0 atk_:4.1 def:16.0 
+goblet Lavawalker 5 0 def_ hp:269.0 atk:14.0 def:19.0 enerRech_:6.5 
+goblet Lavawalker 5 0 hp_ enerRech_:5.8 eleMas:23.0 critRate_:3.9 def_:6.6 
+goblet Lavawalker 5 0 pyro_dmg_ enerRech_:5.8 atk:18.0 critRate_:2.7 
+goblet Lavawalker 5 0 def_ critRate_:3.9 hp:299.0 atk:16.0 
+goblet Lavawalker 5 0 hp_ atk_:5.3 critRate_:3.9 eleMas:19.0 
+circlet Lavawalker 5 0 critDMG_ eleMas:23.0 enerRech_:6.5 def:23.0 hp_:5.3 
+circlet Lavawalker 5 0 critRate_ atk_:4.1 hp:239.0 eleMas:19.0 critDMG_:7.0 
+circlet Lavawalker 5 0 def_ atk:18.0 hp:269.0 enerRech_:5.2 
+circlet Lavawalker 5 0 hp_ atk:14.0 def:16.0 critDMG_:7.0 
+circlet Lavawalker 5 0 def_ def:16.0 eleMas:21.0 atk:16.0 
+circlet Lavawalker 5 0 critDMG_ def:16.0 hp:239.0 eleMas:21.0 
+plume BlizzardStrayer 5 0 atk critDMG_:7.8 critRate_:3.9 def:23.0 def_:7.3 
+plume BlizzardStrayer 5 0 atk def_:5.1 critDMG_:7.0 critRate_:3.1 
+sands BlizzardStrayer 5 0 eleMas hp_:4.1 atk:19.0 critDMG_:7.0 
+sands BlizzardStrayer 5 0 enerRech_ def:21.0 critDMG_:7.0 hp_:5.8 
+circlet BlizzardStrayer 5 0 eleMas critRate_:3.1 atk:19.0 enerRech_:4.5 
+circlet BlizzardStrayer 5 0 critRate_ eleMas:19.0 critDMG_:7.0 atk:18.0 
+circlet BlizzardStrayer 5 0 critDMG_ eleMas:19.0 enerRech_:4.5 hp:299.0 
+goblet CrimsonWitchOfFlames 4 16 pyro_dmg_ critDMG_:4.4 atk:23.0 enerRech_:8.8 def:19.0 
+goblet Gambler 4 16 geo_dmg_ critDMG_:16.8 atk_:3.3 eleMas:32.0 enerRech_:4.1 
+plume CrimsonWitchOfFlames 4 14 atk hp_:3.3 enerRech_:8.8 hp:215.0 def:17.0 
+flower CrimsonWitchOfFlames 4 12 hp critRate_:3.1 eleMas:15.0 atk:26.0 atk_:4.7 
+flower CrimsonWitchOfFlames 4 12 hp critRate_:2.2 atk:11.0 enerRech_:4.7 def:41.0 
+goblet Berserker 4 8 def_ atk:14.0 eleMas:15.0 hp_:3.7 hp:239.0 
+goblet Berserker 4 8 hydro_dmg_ enerRech_:4.1 atk:14.0 hp:239.0 hp_:3.3 
+plume Scholar 4 7 atk critDMG_:4.4 enerRech_:4.7 hp:167.0 
+goblet MartialArtist 4 7 pyro_dmg_ critDMG_:6.2 atk:16.0 hp:167.0 
+flower Berserker 4 7 hp eleMas:19.0 atk_:4.2 def:13.0 
+plume CrimsonWitchOfFlames 4 4 atk hp:191.0 critDMG_:6.2 def:13.0 hp_:3.3 
+flower CrimsonWitchOfFlames 4 4 hp enerRech_:3.6 atk_:4.2 def_:4.1 
+circlet CrimsonWitchOfFlames 4 4 critRate_ hp_:4.7 def:19.0 hp:239.0 
+plume Berserker 4 4 atk critRate_:2.5 hp:167.0 hp_:3.7 
+circlet Instructor 4 3 eleMas hp_:4.7 critDMG_:5.6 
+flower NighttimeWhispersInTheEchoingWoods 4 0 hp critDMG_:4.4 atk_:3.7 
+flower GoldenTroupe 4 0 hp atk_:4.2 def:19.0 
+flower GoldenTroupe 4 0 hp atk:12.0 critRate_:2.5 
+plume GoldenTroupe 4 0 atk def:19.0 hp:167.0 hp_:3.7 
+sands GoldenTroupe 4 0 eleMas atk_:3.7 def_:4.1 
+goblet GoldenTroupe 4 0 def_ critRate_:2.5 def:13.0 
+plume MarechausseeHunter 4 0 atk critRate_:2.5 critDMG_:4.4 
+goblet MarechausseeHunter 4 0 hp_ def:13.0 atk:12.0 eleMas:13.0 
+flower NymphsDream 4 0 hp eleMas:13.0 def:13.0 
+goblet VourukashasGlow 4 0 hydro_dmg_ atk:11.0 def:15.0 
+plume FlowerOfParadiseLost 4 0 atk enerRech_:4.1 def:19.0 
+circlet FlowerOfParadiseLost 4 0 hp_ def_:5.8 atk:14.0 
+flower DesertPavilionChronicle 4 0 hp atk_:4.7 def:15.0 
+flower DesertPavilionChronicle 4 0 hp eleMas:17.0 def:15.0 
+plume DesertPavilionChronicle 4 0 atk enerRech_:3.6 def:17.0 
+plume DesertPavilionChronicle 4 0 atk atk_:4.2 def:17.0 
+goblet DesertPavilionChronicle 4 0 geo_dmg_ critRate_:2.5 atk_:3.7 
+circlet DesertPavilionChronicle 4 0 hp_ critRate_:2.5 atk:11.0 
+flower GildedDreams 4 0 hp eleMas:13.0 atk_:4.7 
+plume GildedDreams 4 0 atk hp:167.0 atk_:3.7 def_:5.3 
+sands GildedDreams 4 0 eleMas hp:239.0 def:15.0 
+goblet GildedDreams 4 0 hp_ hp:191.0 atk:14.0 
+goblet GildedDreams 4 0 physical_dmg_ hp:167.0 atk_:4.7 
+circlet GildedDreams 4 0 hp_ eleMas:15.0 atk:12.0 
+circlet GildedDreams 4 0 eleMas hp:239.0 def:17.0 
+flower DeepwoodMemories 4 0 hp atk:12.0 eleMas:13.0 
+plume DeepwoodMemories 4 0 atk critRate_:3.1 eleMas:13.0 
+plume DeepwoodMemories 4 0 atk hp:191.0 def:15.0 
+sands DeepwoodMemories 4 0 hp_ atk:11.0 hp:191.0 def_:4.1 
+sands DeepwoodMemories 4 0 def_ def:15.0 atk:12.0 
+goblet DeepwoodMemories 4 0 atk_ def_:5.8 atk:12.0 hp_:4.2 
+goblet DeepwoodMemories 4 0 hp_ atk_:4.7 def:15.0 
+circlet DeepwoodMemories 4 0 heal_ critDMG_:4.4 hp_:3.3 
+circlet DeepwoodMemories 4 0 heal_ def:17.0 atk:12.0 
+flower EmblemOfSeveredFate 4 0 hp enerRech_:4.7 critDMG_:5.6 
+flower EmblemOfSeveredFate 4 0 hp def_:5.8 atk_:3.3 
+plume EmblemOfSeveredFate 4 0 atk eleMas:13.0 hp_:3.7 
+plume EmblemOfSeveredFate 4 0 atk def:15.0 enerRech_:3.6 
+plume EmblemOfSeveredFate 4 0 atk def_:4.7 critDMG_:5.6 
+plume EmblemOfSeveredFate 4 0 atk critDMG_:5.0 enerRech_:3.6 
+sands EmblemOfSeveredFate 4 0 atk_ critRate_:3.1 def_:4.1 
+sands EmblemOfSeveredFate 4 0 hp_ def_:5.3 atk:12.0 
+sands EmblemOfSeveredFate 4 0 atk_ critDMG_:6.2 atk:16.0 
+goblet EmblemOfSeveredFate 4 0 geo_dmg_ enerRech_:5.2 hp:191.0 def:19.0 
+goblet EmblemOfSeveredFate 4 0 atk_ critRate_:2.8 enerRech_:5.2 
+goblet EmblemOfSeveredFate 4 0 anemo_dmg_ critDMG_:6.2 def:19.0 
+circlet EmblemOfSeveredFate 4 0 atk_ atk:11.0 hp_:3.3 enerRech_:4.7 
+circlet EmblemOfSeveredFate 4 0 def_ def:19.0 atk_:3.7 
+circlet EmblemOfSeveredFate 4 0 heal_ hp_:4.7 def:15.0 
+flower ShimenawasReminiscence 4 0 hp enerRech_:5.2 critDMG_:5.0 
+flower ShimenawasReminiscence 4 0 hp def_:5.3 enerRech_:5.2 eleMas:17.0 
+flower ShimenawasReminiscence 4 0 hp def:13.0 hp_:3.7 
+plume ShimenawasReminiscence 4 0 atk eleMas:15.0 def:15.0 critDMG_:6.2 
+plume ShimenawasReminiscence 4 0 atk critRate_:2.5 hp:167.0 
+plume ShimenawasReminiscence 4 0 atk atk_:4.7 enerRech_:4.7 
+sands ShimenawasReminiscence 4 0 eleMas def:17.0 atk:16.0 
+sands ShimenawasReminiscence 4 0 def_ def:13.0 atk:12.0 
+sands ShimenawasReminiscence 4 0 hp_ hp:215.0 enerRech_:5.2 
+sands ShimenawasReminiscence 4 0 hp_ critDMG_:6.2 critRate_:2.5 
+sands ShimenawasReminiscence 4 0 atk_ hp:239.0 atk:11.0 
+goblet ShimenawasReminiscence 4 0 def_ atk:12.0 eleMas:13.0 enerRech_:4.1 
+goblet ShimenawasReminiscence 4 0 dendro_dmg_ hp_:4.7 hp:167.0 
+circlet ShimenawasReminiscence 4 0 critRate_ hp_:3.3 eleMas:17.0 
+circlet ShimenawasReminiscence 4 0 hp_ def:13.0 hp:215.0 
+circlet ShimenawasReminiscence 4 0 def_ critRate_:2.5 eleMas:19.0 
+circlet ShimenawasReminiscence 4 0 def_ enerRech_:3.6 eleMas:13.0 
+flower CrimsonWitchOfFlames 4 0 hp enerRech_:4.7 critDMG_:4.4 atk_:4.2 
+flower CrimsonWitchOfFlames 4 0 hp enerRech_:3.6 hp_:3.7 atk_:4.7 
+flower CrimsonWitchOfFlames 4 0 hp atk:16.0 critRate_:3.1 
+flower CrimsonWitchOfFlames 4 0 hp eleMas:13.0 def:19.0 
+flower CrimsonWitchOfFlames 4 0 hp atk_:3.3 enerRech_:3.6 
+flower CrimsonWitchOfFlames 4 0 hp def_:5.8 atk_:3.3 
+flower CrimsonWitchOfFlames 4 0 hp critRate_:2.5 def:15.0 
+flower CrimsonWitchOfFlames 4 0 hp def_:4.1 atk:14.0 
+flower CrimsonWitchOfFlames 4 0 hp def:13.0 hp_:4.2 
+flower CrimsonWitchOfFlames 4 0 hp def:13.0 eleMas:13.0 
+flower CrimsonWitchOfFlames 4 0 hp def_:5.8 critRate_:2.5 
+plume CrimsonWitchOfFlames 4 0 atk critRate_:2.8 critDMG_:6.2 
+plume CrimsonWitchOfFlames 4 0 atk atk_:4.2 def:17.0 critRate_:2.5 
+plume CrimsonWitchOfFlames 4 0 atk enerRech_:5.2 hp:239.0 atk_:4.2 
+plume CrimsonWitchOfFlames 4 0 atk def_:5.3 hp_:3.3 eleMas:15.0 
+plume CrimsonWitchOfFlames 4 0 atk critDMG_:4.4 hp_:3.3 def:17.0 
+plume CrimsonWitchOfFlames 4 0 atk hp_:3.7 def_:5.3 atk_:4.7 
+plume CrimsonWitchOfFlames 4 0 atk def_:4.1 hp_:4.2 
+plume CrimsonWitchOfFlames 4 0 atk atk_:4.7 def_:4.7 
+plume CrimsonWitchOfFlames 4 0 atk eleMas:17.0 hp:191.0 
+plume CrimsonWitchOfFlames 4 0 atk hp:191.0 enerRech_:4.1 
+plume CrimsonWitchOfFlames 4 0 atk eleMas:15.0 enerRech_:3.6 
+plume CrimsonWitchOfFlames 4 0 atk hp_:3.3 hp:167.0 
+plume CrimsonWitchOfFlames 4 0 atk hp_:3.3 hp:239.0 
+plume CrimsonWitchOfFlames 4 0 atk enerRech_:4.1 def:19.0 
+plume CrimsonWitchOfFlames 4 0 atk def_:4.1 critRate_:2.5 
+sands CrimsonWitchOfFlames 4 0 enerRech_ eleMas:13.0 def:19.0 atk_:4.7 
+sands CrimsonWitchOfFlames 4 0 def_ critRate_:3.1 atk_:4.7 enerRech_:4.7 
+sands CrimsonWitchOfFlames 4 0 def_ atk:12.0 enerRech_:3.6 
+sands CrimsonWitchOfFlames 4 0 eleMas atk:14.0 hp:239.0 
+sands CrimsonWitchOfFlames 4 0 def_ critDMG_:6.2 atk_:3.3 
+sands CrimsonWitchOfFlames 4 0 hp_ def_:5.3 critDMG_:5.6 
+sands CrimsonWitchOfFlames 4 0 atk_ enerRech_:5.2 eleMas:13.0 
+sands CrimsonWitchOfFlames 4 0 def_ atk_:3.7 atk:16.0 
+goblet CrimsonWitchOfFlames 4 0 cryo_dmg_ critDMG_:6.2 enerRech_:4.7 hp_:4.2 
+goblet CrimsonWitchOfFlames 4 0 atk_ eleMas:13.0 critRate_:2.2 def_:4.7 
+goblet CrimsonWitchOfFlames 4 0 hp_ eleMas:15.0 atk:12.0 hp:215.0 
+goblet CrimsonWitchOfFlames 4 0 def_ atk_:4.7 hp:191.0 enerRech_:5.2 
+goblet CrimsonWitchOfFlames 4 0 atk_ critRate_:2.8 eleMas:19.0 def:17.0 
+goblet CrimsonWitchOfFlames 4 0 electro_dmg_ def:17.0 atk:14.0 enerRech_:4.1 
+goblet CrimsonWitchOfFlames 4 0 anemo_dmg_ hp:215.0 def_:5.8 enerRech_:5.2 
+goblet CrimsonWitchOfFlames 4 0 geo_dmg_ def_:4.1 hp:239.0 def:19.0 
+goblet CrimsonWitchOfFlames 4 0 atk_ critRate_:3.1 eleMas:19.0 
+goblet CrimsonWitchOfFlames 4 0 atk_ def:13.0 eleMas:19.0 
+goblet CrimsonWitchOfFlames 4 0 electro_dmg_ atk:12.0 atk_:4.2 
+goblet CrimsonWitchOfFlames 4 0 def_ hp:167.0 hp_:4.2 
+goblet CrimsonWitchOfFlames 4 0 dendro_dmg_ hp:191.0 def:19.0 
+goblet CrimsonWitchOfFlames 4 0 def_ eleMas:15.0 critRate_:2.8 
+goblet CrimsonWitchOfFlames 4 0 electro_dmg_ eleMas:19.0 hp_:3.7 
+goblet CrimsonWitchOfFlames 4 0 hp_ critRate_:2.5 def_:5.3 
+goblet CrimsonWitchOfFlames 4 0 hydro_dmg_ hp:239.0 def:13.0 
+goblet CrimsonWitchOfFlames 4 0 atk_ atk:14.0 def:15.0 
+goblet CrimsonWitchOfFlames 4 0 physical_dmg_ eleMas:19.0 hp_:4.2 
+goblet CrimsonWitchOfFlames 4 0 def_ critDMG_:5.6 enerRech_:4.7 
+goblet CrimsonWitchOfFlames 4 0 def_ def:17.0 atk_:4.2 
+circlet CrimsonWitchOfFlames 4 0 atk_ def_:5.8 atk:12.0 critDMG_:5.0 
+goblet CrimsonWitchOfFlames 4 0 physical_dmg_ enerRech_:4.7 eleMas:13.0 
+circlet CrimsonWitchOfFlames 4 0 critRate_ def:17.0 hp:215.0 atk:12.0 
+circlet CrimsonWitchOfFlames 4 0 atk_ def_:5.8 hp:239.0 
+circlet CrimsonWitchOfFlames 4 0 def_ eleMas:17.0 atk_:3.7 
+circlet CrimsonWitchOfFlames 4 0 heal_ def:17.0 atk:12.0 
+circlet CrimsonWitchOfFlames 4 0 heal_ critDMG_:6.2 atk_:3.3 
+circlet CrimsonWitchOfFlames 4 0 atk_ critDMG_:5.0 eleMas:19.0 
+circlet CrimsonWitchOfFlames 4 0 atk_ atk:16.0 critDMG_:5.6 
+circlet CrimsonWitchOfFlames 4 0 hp_ def_:4.1 hp:191.0 
+circlet CrimsonWitchOfFlames 4 0 hp_ atk:14.0 def_:5.8 
+circlet CrimsonWitchOfFlames 4 0 hp_ critRate_:2.5 def_:4.1 
+circlet CrimsonWitchOfFlames 4 0 def_ eleMas:13.0 hp_:3.3 
+circlet CrimsonWitchOfFlames 4 0 atk_ hp:215.0 eleMas:19.0 
+circlet CrimsonWitchOfFlames 4 0 hp_ def:19.0 hp:167.0 
+circlet CrimsonWitchOfFlames 4 0 atk_ hp:167.0 critDMG_:6.2 
+circlet CrimsonWitchOfFlames 4 0 atk_ atk:14.0 hp_:4.7 
+circlet CrimsonWitchOfFlames 4 0 def_ critRate_:3.1 def:17.0 
+circlet CrimsonWitchOfFlames 4 0 def_ hp:239.0 def:13.0 
+circlet CrimsonWitchOfFlames 4 0 def_ atk:16.0 enerRech_:5.2 
+circlet CrimsonWitchOfFlames 4 0 critDMG_ def:19.0 def_:4.1 
+circlet CrimsonWitchOfFlames 4 0 def_ eleMas:13.0 def:17.0 
+circlet CrimsonWitchOfFlames 4 0 atk_ critRate_:2.2 critDMG_:5.6 
+flower WanderersTroupe 4 0 hp eleMas:13.0 atk_:3.7 hp_:3.7 
+flower WanderersTroupe 4 0 hp def:15.0 atk_:4.2 critRate_:2.2 
+flower WanderersTroupe 4 0 hp def:15.0 def_:4.1 
+plume WanderersTroupe 4 0 atk enerRech_:4.1 def_:4.7 hp:215.0 
+plume WanderersTroupe 4 0 atk def:19.0 enerRech_:4.1 
+sands WanderersTroupe 4 0 def_ hp_:4.7 hp:191.0 critDMG_:5.6 
+sands WanderersTroupe 4 0 def_ atk:11.0 def:17.0 enerRech_:3.6 
+sands WanderersTroupe 4 0 def_ def:19.0 atk_:4.7 
+sands WanderersTroupe 4 0 def_ enerRech_:4.7 critRate_:2.2 
+goblet WanderersTroupe 4 0 hp_ def:15.0 atk:11.0 
+goblet WanderersTroupe 4 0 hp_ atk_:4.2 eleMas:19.0 
+circlet WanderersTroupe 4 0 def_ hp_:3.7 critDMG_:6.2 def:15.0 
+circlet WanderersTroupe 4 0 heal_ atk_:4.7 def_:4.7 
+circlet WanderersTroupe 4 0 hp_ def_:4.1 atk:12.0 
+circlet WanderersTroupe 4 0 critRate_ def_:4.7 def:19.0 
+circlet WanderersTroupe 4 0 atk_ def:15.0 eleMas:15.0 
+circlet WanderersTroupe 4 0 atk_ def_:4.1 def:13.0 
+circlet WanderersTroupe 4 0 critDMG_ def_:5.3 hp_:4.7 
+circlet WanderersTroupe 4 0 def_ def:13.0 enerRech_:4.1 
+flower GladiatorsFinale 4 0 hp enerRech_:4.7 eleMas:17.0 
+flower GladiatorsFinale 4 0 hp critRate_:2.5 critDMG_:5.6 
+flower GladiatorsFinale 4 0 hp hp_:4.2 atk_:4.7 
+flower GladiatorsFinale 4 0 hp def_:4.7 hp_:3.3 
+plume GladiatorsFinale 4 0 atk enerRech_:3.6 def:19.0 
+plume GladiatorsFinale 4 0 atk hp_:3.3 enerRech_:3.6 
+plume GladiatorsFinale 4 0 atk hp_:3.7 enerRech_:5.2 
+plume GladiatorsFinale 4 0 atk def_:5.3 def:19.0 
+plume GladiatorsFinale 4 0 atk hp:191.0 def:15.0 
+sands GladiatorsFinale 4 0 hp_ def:15.0 critRate_:2.8 eleMas:17.0 
+sands GladiatorsFinale 4 0 atk_ enerRech_:4.7 atk:11.0 
+sands GladiatorsFinale 4 0 def_ critRate_:2.8 def:19.0 
+sands GladiatorsFinale 4 0 atk_ enerRech_:4.1 hp_:4.2 
+goblet GladiatorsFinale 4 0 physical_dmg_ enerRech_:5.2 def_:5.8 hp:215.0 
+goblet GladiatorsFinale 4 0 geo_dmg_ hp:239.0 def:19.0 enerRech_:4.7 
+goblet GladiatorsFinale 4 0 hp_ enerRech_:5.2 atk_:3.7 critDMG_:5.0 
+goblet GladiatorsFinale 4 0 hp_ def_:5.3 atk_:3.3 atk:11.0 
+goblet GladiatorsFinale 4 0 cryo_dmg_ enerRech_:4.7 def:13.0 def_:4.7 
+goblet GladiatorsFinale 4 0 atk_ enerRech_:4.7 def:17.0 
+goblet GladiatorsFinale 4 0 hydro_dmg_ critDMG_:5.0 atk:12.0 
+circlet GladiatorsFinale 4 0 atk_ def:19.0 atk:11.0 enerRech_:4.7 
+circlet GladiatorsFinale 4 0 atk_ def_:4.7 eleMas:17.0 enerRech_:3.6 
+circlet GladiatorsFinale 4 0 def_ def:13.0 hp_:3.7 critDMG_:5.0 
+circlet GladiatorsFinale 4 0 atk_ def:17.0 hp:239.0 
+flower Lavawalker 4 0 hp critRate_:2.5 eleMas:19.0 hp_:3.3 
+flower Lavawalker 4 0 hp atk_:3.3 enerRech_:3.6 atk:16.0 
+flower Lavawalker 4 0 hp critDMG_:5.6 atk:12.0 def:13.0 
+flower Lavawalker 4 0 hp def_:4.7 atk:12.0 hp_:4.7 
+flower Lavawalker 4 0 hp critDMG_:5.6 atk_:3.3 def_:5.3 
+flower Lavawalker 4 0 hp critDMG_:4.4 atk:12.0 atk_:4.7 
+flower Lavawalker 4 0 hp def:13.0 critRate_:2.2 
+flower Lavawalker 4 0 hp def:15.0 eleMas:19.0 
+flower Lavawalker 4 0 hp enerRech_:4.7 hp_:3.3 
+flower Lavawalker 4 0 hp def:19.0 atk:16.0 
+flower Lavawalker 4 0 hp eleMas:13.0 enerRech_:4.7 
+flower Lavawalker 4 0 hp enerRech_:5.2 eleMas:13.0 
+flower Lavawalker 4 0 hp enerRech_:4.1 atk_:3.7 
+flower Lavawalker 4 0 hp critRate_:2.5 hp_:4.2 
+flower Lavawalker 4 0 hp critRate_:2.8 atk:11.0 
+flower Lavawalker 4 0 hp atk:14.0 atk_:3.3 
+flower Lavawalker 4 0 hp def:15.0 atk_:4.2 
+flower Lavawalker 4 0 hp hp_:4.7 critDMG_:6.2 
+flower Lavawalker 4 0 hp eleMas:15.0 critRate_:2.8 
+flower Lavawalker 4 0 hp atk_:3.3 critRate_:3.1 
+flower Lavawalker 4 0 hp def:13.0 critDMG_:6.2 
+plume Lavawalker 4 0 atk hp_:3.3 hp:191.0 critDMG_:6.2 
+plume Lavawalker 4 0 atk hp:239.0 hp_:4.2 
+plume Lavawalker 4 0 atk critRate_:3.1 def:15.0 
+plume Lavawalker 4 0 atk def_:5.8 hp_:3.7 
+plume Lavawalker 4 0 atk eleMas:15.0 enerRech_:3.6 
+plume Lavawalker 4 0 atk hp:215.0 critDMG_:5.6 
+plume Lavawalker 4 0 atk def:15.0 atk_:3.3 
+plume Lavawalker 4 0 atk critDMG_:5.0 critRate_:3.1 
+plume Lavawalker 4 0 atk hp_:4.7 atk_:4.2 
+plume Lavawalker 4 0 atk def_:5.8 hp_:4.2 
+plume Lavawalker 4 0 atk enerRech_:5.2 atk_:3.3 
+plume Lavawalker 4 0 atk enerRech_:4.1 def:17.0 
+plume Lavawalker 4 0 atk hp:215.0 hp_:3.7 
+plume Lavawalker 4 0 atk hp:191.0 hp_:4.2 
+plume Lavawalker 4 0 atk hp_:4.2 critDMG_:5.0 
+plume Lavawalker 4 0 atk hp:239.0 eleMas:13.0 
+sands Lavawalker 4 0 def_ hp:239.0 atk_:4.2 eleMas:19.0 
+sands Lavawalker 4 0 hp_ hp:167.0 atk_:3.3 eleMas:17.0 
+sands Lavawalker 4 0 def_ hp:239.0 critRate_:2.8 atk:12.0 
+sands Lavawalker 4 0 atk_ hp:167.0 hp_:3.7 enerRech_:3.6 
+sands Lavawalker 4 0 atk_ def_:5.3 def:13.0 
+sands Lavawalker 4 0 atk_ eleMas:19.0 def:19.0 
+sands Lavawalker 4 0 def_ hp:239.0 critDMG_:5.6 
+sands Lavawalker 4 0 hp_ atk:14.0 enerRech_:3.6 
+sands Lavawalker 4 0 atk_ def:15.0 enerRech_:4.1 
+sands Lavawalker 4 0 hp_ def_:4.7 atk_:4.2 
+sands Lavawalker 4 0 atk_ hp:191.0 def_:5.8 
+sands Lavawalker 4 0 hp_ def:17.0 atk_:3.7 
+sands Lavawalker 4 0 atk_ critRate_:3.1 def:17.0 
+sands Lavawalker 4 0 eleMas atk:12.0 hp_:4.7 
+sands Lavawalker 4 0 hp_ hp:191.0 def_:5.8 
+sands Lavawalker 4 0 atk_ critRate_:2.2 atk:11.0 
+sands Lavawalker 4 0 atk_ enerRech_:4.7 eleMas:17.0 
+sands Lavawalker 4 0 def_ atk:14.0 enerRech_:3.6 
+sands Lavawalker 4 0 enerRech_ def:13.0 atk_:3.7 
+goblet Lavawalker 4 0 atk_ eleMas:15.0 hp_:4.2 def_:4.1 
+goblet Lavawalker 4 0 electro_dmg_ hp:191.0 atk:16.0 hp_:4.2 
+goblet Lavawalker 4 0 atk_ hp_:4.7 def:19.0 
+goblet Lavawalker 4 0 atk_ atk:12.0 def:13.0 
+goblet Lavawalker 4 0 def_ atk:14.0 enerRech_:3.6 
+goblet Lavawalker 4 0 atk_ atk:14.0 def:15.0 
+goblet Lavawalker 4 0 electro_dmg_ critDMG_:4.4 hp_:3.7 
+goblet Lavawalker 4 0 geo_dmg_ enerRech_:4.1 eleMas:13.0 
+goblet Lavawalker 4 0 def_ hp:191.0 hp_:3.3 
+goblet Lavawalker 4 0 hp_ eleMas:19.0 hp:191.0 
+goblet Lavawalker 4 0 hp_ atk:14.0 def:15.0 
+goblet Lavawalker 4 0 def_ hp:215.0 def:19.0 
+goblet Lavawalker 4 0 geo_dmg_ atk_:3.3 hp_:3.3 
+goblet Lavawalker 4 0 def_ hp:215.0 hp_:4.2 
+goblet Lavawalker 4 0 electro_dmg_ atk_:3.3 enerRech_:4.7 
+circlet Lavawalker 4 0 atk_ critDMG_:4.4 def:15.0 atk:11.0 
+circlet Lavawalker 4 0 critRate_ def_:5.3 atk:14.0 enerRech_:4.1 
+circlet Lavawalker 4 0 hp_ eleMas:19.0 hp:215.0 
+circlet Lavawalker 4 0 hp_ enerRech_:4.7 hp:215.0 
+circlet Lavawalker 4 0 atk_ atk:14.0 def:15.0 
+circlet Lavawalker 4 0 atk_ def:17.0 enerRech_:3.6 
+circlet Lavawalker 4 0 atk_ eleMas:17.0 def_:4.7 
+circlet Lavawalker 4 0 heal_ atk:11.0 atk_:4.7 
+circlet Lavawalker 4 0 critDMG_ atk:16.0 atk_:3.3 
+circlet Lavawalker 4 0 eleMas critRate_:3.1 atk_:3.3 
+circlet Lavawalker 4 0 hp_ critRate_:2.2 def:15.0 
+circlet Lavawalker 4 0 atk_ hp_:3.7 eleMas:19.0 
+circlet Lavawalker 4 0 critDMG_ eleMas:19.0 critRate_:2.2 
+circlet Lavawalker 4 0 critRate_ hp:191.0 atk:14.0 
+circlet Lavawalker 4 0 hp_ atk:12.0 def:13.0 
+circlet Lavawalker 4 0 hp_ atk:11.0 critDMG_:5.0 
+circlet Lavawalker 4 0 atk_ def_:4.7 atk:12.0 
+circlet Lavawalker 4 0 def_ def:13.0 hp_:4.2 
+circlet Lavawalker 4 0 hp_ critRate_:2.5 def_:5.3 
+goblet Scholar 4 0 electro_dmg_ atk_:3.3 def:13.0 
+flower TheExile 4 0 hp eleMas:17.0 critDMG_:6.2 atk:16.0 
+flower TheExile 4 0 hp def:17.0 critDMG_:5.0 eleMas:13.0 
+flower TheExile 4 0 hp critRate_:2.5 hp_:4.2 atk:16.0 
+flower TheExile 4 0 hp hp_:3.7 def:13.0 atk:11.0 
+flower TheExile 4 0 hp def:17.0 atk:11.0 def_:4.7 
+flower TheExile 4 0 hp def:13.0 atk:11.0 
+flower TheExile 4 0 hp eleMas:17.0 def:15.0 
+flower TheExile 4 0 hp hp_:4.2 enerRech_:3.6 
+flower TheExile 4 0 hp def:17.0 def_:5.8 
+flower TheExile 4 0 hp enerRech_:4.1 hp_:3.3 
+plume TheExile 4 0 atk def:19.0 eleMas:17.0 hp_:3.3 
+plume TheExile 4 0 atk hp_:3.3 enerRech_:4.7 hp:239.0 
+plume TheExile 4 0 atk critDMG_:6.2 hp_:4.7 def:15.0 
+plume TheExile 4 0 atk hp_:4.2 def_:4.1 def:13.0 
+plume TheExile 4 0 atk def_:4.1 eleMas:13.0 
+plume TheExile 4 0 atk eleMas:13.0 critRate_:2.2 
+plume TheExile 4 0 atk def:17.0 enerRech_:3.6 
+sands TheExile 4 0 atk_ def_:5.8 hp_:4.7 critDMG_:4.4 
+sands TheExile 4 0 hp_ atk_:3.3 def:15.0 hp:167.0 
+sands TheExile 4 0 eleMas atk_:4.7 def:15.0 hp_:3.7 
+sands TheExile 4 0 atk_ def:19.0 critRate_:3.1 def_:5.3 
+sands TheExile 4 0 def_ hp:239.0 eleMas:15.0 
+sands TheExile 4 0 atk_ enerRech_:4.1 hp:167.0 
+sands TheExile 4 0 enerRech_ def_:4.7 def:19.0 
+sands TheExile 4 0 def_ def:15.0 atk:14.0 
+sands TheExile 4 0 atk_ def_:5.8 atk:14.0 
+sands TheExile 4 0 enerRech_ atk:11.0 def_:5.8 
+sands TheExile 4 0 atk_ enerRech_:3.6 eleMas:15.0 
+sands TheExile 4 0 atk_ def:19.0 def_:4.7 
+sands TheExile 4 0 hp_ def_:5.8 hp:167.0 
+sands TheExile 4 0 def_ hp_:3.3 def:13.0 
+sands TheExile 4 0 enerRech_ def:15.0 def_:4.7 
+goblet TheExile 4 0 def_ eleMas:15.0 hp:215.0 atk:14.0 
+goblet TheExile 4 0 hp_ hp:215.0 atk_:4.2 def_:5.8 
+goblet TheExile 4 0 anemo_dmg_ hp:215.0 def:19.0 enerRech_:4.7 
+goblet TheExile 4 0 pyro_dmg_ atk_:4.2 critRate_:3.1 eleMas:19.0 
+goblet TheExile 4 0 hp_ atk_:3.3 hp:239.0 critDMG_:4.4 
+goblet TheExile 4 0 geo_dmg_ hp:167.0 critRate_:2.5 enerRech_:4.7 
+goblet TheExile 4 0 def_ enerRech_:4.1 hp_:4.7 atk:16.0 
+goblet TheExile 4 0 anemo_dmg_ def_:5.3 enerRech_:4.7 
+goblet TheExile 4 0 def_ def:17.0 atk:14.0 
+goblet TheExile 4 0 def_ def:13.0 hp:215.0 
+goblet TheExile 4 0 hp_ atk_:3.7 enerRech_:4.1 
+goblet TheExile 4 0 eleMas enerRech_:4.1 atk:12.0 
+goblet TheExile 4 0 atk_ hp:239.0 hp_:3.7 
+goblet TheExile 4 0 dendro_dmg_ hp:215.0 def:19.0 
+circlet TheExile 4 0 atk_ atk:12.0 def:17.0 critRate_:2.2 
+circlet TheExile 4 0 atk_ critRate_:2.2 enerRech_:5.2 def:13.0 
+circlet TheExile 4 0 hp_ eleMas:13.0 hp:167.0 critRate_:3.1 
+circlet TheExile 4 0 def_ critDMG_:5.6 atk:16.0 hp_:4.7 
+circlet TheExile 4 0 hp_ critDMG_:5.6 hp:191.0 enerRech_:3.6 
+circlet TheExile 4 0 hp_ def_:5.3 atk:14.0 
+circlet TheExile 4 0 atk_ enerRech_:4.1 eleMas:17.0 
+circlet TheExile 4 0 def_ hp_:4.2 enerRech_:3.6 
+circlet TheExile 4 0 hp_ critDMG_:4.4 atk:16.0 
+circlet TheExile 4 0 critDMG_ def:13.0 enerRech_:3.6 
+circlet TheExile 4 0 def_ enerRech_:4.7 def:15.0 
+circlet TheExile 4 0 critRate_ def:13.0 enerRech_:3.6 
+circlet TheExile 4 0 def_ hp_:4.2 hp:215.0 
+circlet TheExile 4 0 hp_ atk:11.0 def_:4.1 
+goblet Gambler 4 0 electro_dmg_ atk_:3.7 hp:167.0 
+goblet Gambler 4 0 dendro_dmg_ hp:239.0 atk_:3.7 
+goblet Gambler 4 0 hp_ def_:5.8 critDMG_:4.4 
+goblet Gambler 4 0 physical_dmg_ enerRech_:4.7 hp:215.0 
+goblet Gambler 4 0 def_ hp_:4.2 enerRech_:4.7 
+goblet Gambler 4 0 cryo_dmg_ hp_:3.7 atk:12.0 
+goblet Gambler 4 0 geo_dmg_ atk:11.0 hp_:3.7 
+goblet Gambler 4 0 def_ enerRech_:4.1 eleMas:17.0 
+goblet Gambler 4 0 electro_dmg_ def:15.0 eleMas:15.0 
+goblet Gambler 4 0 geo_dmg_ enerRech_:5.2 def:17.0 
+goblet Gambler 4 0 electro_dmg_ hp:239.0 def:15.0 
+goblet Gambler 4 0 atk_ def_:4.7 critRate_:2.5 
+goblet Gambler 4 0 hydro_dmg_ hp:239.0 critRate_:2.2 
+goblet Gambler 4 0 def_ atk:16.0 hp:191.0 
+flower Instructor 4 0 hp eleMas:13.0 critDMG_:4.4 enerRech_:3.6 
+flower Instructor 4 0 hp atk:12.0 def_:4.1 critRate_:3.1 
+flower Instructor 4 0 hp enerRech_:3.6 eleMas:19.0 hp_:3.7 
+flower Instructor 4 0 hp def:17.0 def_:5.3 eleMas:15.0 
+flower Instructor 4 0 hp critRate_:2.5 hp_:4.7 atk_:4.7 
+flower Instructor 4 0 hp hp_:4.2 enerRech_:4.7 atk:16.0 
+flower Instructor 4 0 hp atk_:3.7 enerRech_:4.1 
+flower Instructor 4 0 hp eleMas:13.0 def:19.0 
+flower Instructor 4 0 hp atk:14.0 def:17.0 
+flower Instructor 4 0 hp def:19.0 atk:11.0 
+flower Instructor 4 0 hp atk:12.0 eleMas:13.0 
+flower Instructor 4 0 hp critRate_:2.2 hp_:3.3 
+flower Instructor 4 0 hp eleMas:13.0 critDMG_:5.0 
+flower Instructor 4 0 hp atk_:3.7 hp_:4.7 
+flower Instructor 4 0 hp atk:14.0 def_:4.1 
+flower Instructor 4 0 hp atk:12.0 hp_:4.7 
+flower Instructor 4 0 hp eleMas:13.0 atk_:4.2 
+flower Instructor 4 0 hp enerRech_:4.7 def_:4.7 
+flower Instructor 4 0 hp def:15.0 def_:4.7 
+flower Instructor 4 0 hp def:15.0 eleMas:13.0 
+plume Instructor 4 0 atk def:13.0 def_:4.7 atk_:4.7 
+plume Instructor 4 0 atk critDMG_:6.2 def:17.0 hp:191.0 
+plume Instructor 4 0 atk hp_:3.7 hp:191.0 def:13.0 
+plume Instructor 4 0 atk atk_:4.7 hp:167.0 
+plume Instructor 4 0 atk def:13.0 atk_:4.2 
+plume Instructor 4 0 atk def:19.0 eleMas:15.0 
+plume Instructor 4 0 atk def_:4.1 hp:215.0 
+plume Instructor 4 0 atk hp_:4.2 eleMas:19.0 
+plume Instructor 4 0 atk hp_:3.3 def_:5.8 
+plume Instructor 4 0 atk critRate_:2.2 def:15.0 
+plume Instructor 4 0 atk enerRech_:3.6 def:19.0 
+plume Instructor 4 0 atk def:13.0 critDMG_:5.0 
+sands Instructor 4 0 hp_ hp:239.0 atk_:4.2 enerRech_:3.6 
+sands Instructor 4 0 def_ enerRech_:4.1 def:17.0 critDMG_:5.6 
+sands Instructor 4 0 eleMas hp_:3.7 atk:12.0 def_:5.3 
+sands Instructor 4 0 def_ critRate_:3.1 atk_:3.7 
+sands Instructor 4 0 def_ eleMas:19.0 atk:16.0 
+sands Instructor 4 0 def_ def:17.0 atk:12.0 
+sands Instructor 4 0 atk_ critDMG_:5.6 hp:239.0 
+sands Instructor 4 0 atk_ def:17.0 def_:5.8 
+sands Instructor 4 0 eleMas atk:11.0 critDMG_:5.6 
+sands Instructor 4 0 def_ eleMas:15.0 def:17.0 
+sands Instructor 4 0 hp_ def:17.0 def_:5.8 
+sands Instructor 4 0 eleMas def:15.0 hp_:3.7 
+sands Instructor 4 0 def_ def:19.0 critRate_:2.8 
+sands Instructor 4 0 hp_ def_:5.8 critRate_:2.8 
+goblet Instructor 4 0 def_ def:15.0 enerRech_:4.1 critRate_:3.1 
+goblet Instructor 4 0 pyro_dmg_ critDMG_:5.6 def_:5.3 def:15.0 
+goblet Instructor 4 0 geo_dmg_ hp:215.0 critDMG_:4.4 atk:12.0 
+goblet Instructor 4 0 hydro_dmg_ def:15.0 enerRech_:5.2 critRate_:2.5 
+goblet Instructor 4 0 atk_ hp:191.0 atk:11.0 enerRech_:5.2 
+goblet Instructor 4 0 pyro_dmg_ def_:4.1 critRate_:2.5 
+goblet Instructor 4 0 def_ hp:215.0 def:19.0 
+goblet Instructor 4 0 electro_dmg_ def:15.0 critRate_:2.2 
+goblet Instructor 4 0 pyro_dmg_ eleMas:19.0 enerRech_:3.6 
+goblet Instructor 4 0 pyro_dmg_ def_:5.3 hp_:3.7 
+goblet Instructor 4 0 dendro_dmg_ critDMG_:5.0 enerRech_:5.2 
+goblet Instructor 4 0 hp_ atk:16.0 def_:5.8 
+goblet Instructor 4 0 dendro_dmg_ critRate_:2.5 atk:12.0 
+goblet Instructor 4 0 atk_ def_:5.8 atk:12.0 
+goblet Instructor 4 0 geo_dmg_ hp_:3.7 def:13.0 
+goblet Instructor 4 0 def_ hp:215.0 atk_:3.7 
+goblet Instructor 4 0 def_ critRate_:2.5 atk_:4.7 
+goblet Instructor 4 0 hp_ atk_:3.7 enerRech_:4.1 
+goblet Instructor 4 0 hp_ atk:14.0 hp:239.0 
+goblet Instructor 4 0 atk_ def_:5.3 enerRech_:3.6 
+circlet Instructor 4 0 atk_ hp:215.0 def:15.0 critRate_:3.1 
+circlet Instructor 4 0 def_ enerRech_:4.7 def:17.0 atk:11.0 
+circlet Instructor 4 0 atk_ hp:215.0 critDMG_:4.4 eleMas:15.0 
+circlet Instructor 4 0 def_ def:13.0 eleMas:15.0 
+circlet Instructor 4 0 def_ def:15.0 critRate_:2.5 
+circlet Instructor 4 0 atk_ hp:191.0 def:15.0 
+circlet Instructor 4 0 hp_ enerRech_:5.2 hp:191.0 
+circlet Instructor 4 0 hp_ hp:215.0 def:15.0 
+circlet Instructor 4 0 atk_ critDMG_:5.6 critRate_:2.8 
+circlet Instructor 4 0 critDMG_ hp:215.0 def_:4.7 
+flower MartialArtist 4 0 hp critRate_:2.8 def:17.0 enerRech_:5.2 
+flower MartialArtist 4 0 hp eleMas:13.0 def_:4.7 atk:14.0 
+flower MartialArtist 4 0 hp eleMas:19.0 def:15.0 atk_:4.7 
+flower MartialArtist 4 0 hp hp_:4.7 def_:4.1 atk:12.0 
+flower MartialArtist 4 0 hp critRate_:2.5 enerRech_:3.6 def:15.0 
+flower MartialArtist 4 0 hp def_:4.7 enerRech_:4.7 atk_:4.7 
+flower MartialArtist 4 0 hp eleMas:17.0 def_:4.7 enerRech_:3.6 
+flower MartialArtist 4 0 hp enerRech_:5.2 atk_:4.2 
+flower MartialArtist 4 0 hp atk_:4.2 def_:5.8 
+flower MartialArtist 4 0 hp critDMG_:5.6 hp_:4.7 
+flower MartialArtist 4 0 hp critRate_:2.5 atk_:3.3 
+flower MartialArtist 4 0 hp eleMas:19.0 def_:5.8 
+flower MartialArtist 4 0 hp enerRech_:3.6 def:15.0 
+flower MartialArtist 4 0 hp eleMas:17.0 def_:4.7 
+flower MartialArtist 4 0 hp atk:12.0 critDMG_:5.0 
+flower MartialArtist 4 0 hp atk:12.0 hp_:4.7 
+flower MartialArtist 4 0 hp atk_:4.2 enerRech_:4.7 
+flower MartialArtist 4 0 hp eleMas:13.0 enerRech_:5.2 
+flower MartialArtist 4 0 hp atk_:4.7 eleMas:13.0 
+flower MartialArtist 4 0 hp def:17.0 enerRech_:4.1 
+flower MartialArtist 4 0 hp critDMG_:4.4 enerRech_:5.2 
+flower MartialArtist 4 0 hp def:17.0 atk:12.0 
+flower MartialArtist 4 0 hp enerRech_:4.7 eleMas:13.0 
+flower MartialArtist 4 0 hp eleMas:19.0 hp_:4.2 
+flower MartialArtist 4 0 hp hp_:3.3 eleMas:19.0 
+flower MartialArtist 4 0 hp def:17.0 critDMG_:4.4 
+flower MartialArtist 4 0 hp critDMG_:4.4 atk_:4.2 
+flower MartialArtist 4 0 hp enerRech_:4.1 atk_:4.2 
+flower MartialArtist 4 0 hp critDMG_:5.0 def:19.0 
+flower MartialArtist 4 0 hp atk_:3.7 enerRech_:4.7 
+flower MartialArtist 4 0 hp def_:5.8 atk:11.0 
+flower MartialArtist 4 0 hp def:19.0 atk_:4.2 
+flower MartialArtist 4 0 hp def:19.0 atk:12.0 
+flower MartialArtist 4 0 hp hp_:3.3 def:13.0 
+flower MartialArtist 4 0 hp atk_:4.7 def_:4.7 
+flower MartialArtist 4 0 hp def:15.0 critRate_:3.1 
+flower MartialArtist 4 0 hp eleMas:13.0 critRate_:2.8 
+flower MartialArtist 4 0 hp hp_:4.2 critRate_:2.5 
+flower MartialArtist 4 0 hp def_:5.8 atk:14.0 
+flower MartialArtist 4 0 hp enerRech_:4.1 atk_:4.2 
+flower MartialArtist 4 0 hp critDMG_:4.4 def:13.0 
+flower MartialArtist 4 0 hp enerRech_:5.2 atk:12.0 
+flower MartialArtist 4 0 hp hp_:3.3 def:15.0 
+flower MartialArtist 4 0 hp atk_:4.7 enerRech_:5.2 
+flower MartialArtist 4 0 hp hp_:3.7 def_:5.3 
+flower MartialArtist 4 0 hp def:13.0 eleMas:13.0 
+flower MartialArtist 4 0 hp def_:5.3 eleMas:15.0 
+flower MartialArtist 4 0 hp atk_:4.2 def_:5.8 
+flower MartialArtist 4 0 hp enerRech_:4.7 def_:5.8 
+plume MartialArtist 4 0 atk critRate_:3.1 def_:5.3 def:17.0 
+plume MartialArtist 4 0 atk critRate_:3.1 enerRech_:5.2 critDMG_:4.4 
+plume MartialArtist 4 0 atk critDMG_:4.4 def:13.0 critRate_:2.2 
+plume MartialArtist 4 0 atk enerRech_:5.2 hp:215.0 eleMas:13.0 
+plume MartialArtist 4 0 atk hp:239.0 enerRech_:3.6 hp_:3.7 
+plume MartialArtist 4 0 atk def:13.0 critRate_:2.8 atk_:3.3 
+plume MartialArtist 4 0 atk def:17.0 hp:215.0 critDMG_:4.4 
+plume MartialArtist 4 0 atk enerRech_:5.2 def:17.0 
+plume MartialArtist 4 0 atk enerRech_:4.1 atk_:4.7 
+plume MartialArtist 4 0 atk critRate_:2.5 atk_:3.7 
+plume MartialArtist 4 0 atk def:13.0 hp_:3.7 
+plume MartialArtist 4 0 atk enerRech_:5.2 def_:5.3 
+plume MartialArtist 4 0 atk hp:239.0 critDMG_:5.6 
+plume MartialArtist 4 0 atk def:13.0 hp:191.0 
+plume MartialArtist 4 0 atk critDMG_:5.0 def:13.0 
+plume MartialArtist 4 0 atk enerRech_:4.1 def:15.0 
+plume MartialArtist 4 0 atk def:15.0 def_:5.8 
+plume MartialArtist 4 0 atk eleMas:17.0 atk_:4.7 
+plume MartialArtist 4 0 atk atk_:4.7 hp_:3.3 
+plume MartialArtist 4 0 atk hp_:3.3 def:13.0 
+plume MartialArtist 4 0 atk enerRech_:4.7 eleMas:19.0 
+plume MartialArtist 4 0 atk enerRech_:4.7 eleMas:17.0 
+plume MartialArtist 4 0 atk hp:167.0 critRate_:2.8 
+plume MartialArtist 4 0 atk hp:215.0 eleMas:13.0 
+plume MartialArtist 4 0 atk critDMG_:5.0 def:15.0 
+plume MartialArtist 4 0 atk critDMG_:5.0 def:17.0 
+plume MartialArtist 4 0 atk def:15.0 hp:167.0 
+plume MartialArtist 4 0 atk def:13.0 eleMas:17.0 
+plume MartialArtist 4 0 atk enerRech_:4.7 def:15.0 
+plume MartialArtist 4 0 atk def:15.0 hp_:4.2 
+plume MartialArtist 4 0 atk hp_:4.7 enerRech_:4.7 
+plume MartialArtist 4 0 atk enerRech_:3.6 def_:5.3 
+plume MartialArtist 4 0 atk eleMas:17.0 critDMG_:5.0 
+plume MartialArtist 4 0 atk atk_:3.3 hp:215.0 
+plume MartialArtist 4 0 atk enerRech_:5.2 def:13.0 
+plume MartialArtist 4 0 atk eleMas:13.0 atk_:4.2 
+plume MartialArtist 4 0 atk def:19.0 def_:4.7 
+plume MartialArtist 4 0 atk def_:4.7 critDMG_:4.4 
+plume MartialArtist 4 0 atk critRate_:2.2 def_:4.1 
+plume MartialArtist 4 0 atk hp_:4.7 atk_:3.7 
+plume MartialArtist 4 0 atk def_:5.8 enerRech_:4.1 
+plume MartialArtist 4 0 atk def:19.0 enerRech_:5.2 
+plume MartialArtist 4 0 atk def:17.0 enerRech_:4.7 
+plume MartialArtist 4 0 atk atk_:3.7 hp:191.0 
+plume MartialArtist 4 0 atk def:19.0 critDMG_:5.0 
+plume MartialArtist 4 0 atk atk_:3.7 eleMas:17.0 
+plume MartialArtist 4 0 atk critRate_:2.2 atk_:3.7 
+sands MartialArtist 4 0 enerRech_ def_:4.7 critRate_:2.2 atk_:4.7 
+sands MartialArtist 4 0 atk_ hp:167.0 eleMas:13.0 critRate_:2.5 
+sands MartialArtist 4 0 hp_ atk_:4.2 def_:5.3 enerRech_:5.2 
+sands MartialArtist 4 0 atk_ eleMas:15.0 def_:5.3 atk:12.0 
+sands MartialArtist 4 0 hp_ atk_:3.7 critDMG_:4.4 enerRech_:4.1 
+sands MartialArtist 4 0 hp_ eleMas:15.0 hp:191.0 enerRech_:4.1 
+sands MartialArtist 4 0 atk_ hp:215.0 def_:4.7 eleMas:17.0 
+sands MartialArtist 4 0 def_ hp:191.0 hp_:3.7 atk_:4.7 
+sands MartialArtist 4 0 hp_ critDMG_:4.4 atk_:3.3 
+sands MartialArtist 4 0 hp_ hp:215.0 eleMas:19.0 
+sands MartialArtist 4 0 enerRech_ def:13.0 atk:12.0 
+sands MartialArtist 4 0 def_ critRate_:2.8 critDMG_:5.0 
+sands MartialArtist 4 0 hp_ critRate_:2.8 def:19.0 
+sands MartialArtist 4 0 enerRech_ eleMas:17.0 def_:4.1 
+sands MartialArtist 4 0 atk_ def:15.0 hp:239.0 
+sands MartialArtist 4 0 hp_ def:17.0 atk_:4.2 
+sands MartialArtist 4 0 hp_ atk_:3.7 def:19.0 
+sands MartialArtist 4 0 def_ def:15.0 atk_:4.2 
+sands MartialArtist 4 0 enerRech_ def:15.0 atk_:3.3 
+sands MartialArtist 4 0 hp_ atk:16.0 hp:167.0 
+sands MartialArtist 4 0 enerRech_ def_:4.7 atk:16.0 
+sands MartialArtist 4 0 atk_ def:19.0 hp:167.0 
+sands MartialArtist 4 0 eleMas atk:16.0 atk_:3.7 
+sands MartialArtist 4 0 eleMas def:19.0 enerRech_:4.7 
+sands MartialArtist 4 0 hp_ def:17.0 enerRech_:5.2 
+sands MartialArtist 4 0 atk_ critRate_:2.2 atk:16.0 
+sands MartialArtist 4 0 atk_ def:15.0 hp:191.0 
+sands MartialArtist 4 0 def_ critRate_:2.8 enerRech_:5.2 
+sands MartialArtist 4 0 atk_ atk:12.0 def:17.0 
+goblet MartialArtist 4 0 pyro_dmg_ atk:11.0 atk_:3.3 enerRech_:5.2 
+goblet MartialArtist 4 0 geo_dmg_ eleMas:19.0 atk_:3.7 hp:215.0 
+goblet MartialArtist 4 0 hydro_dmg_ critRate_:2.2 atk_:3.3 hp:239.0 
+goblet MartialArtist 4 0 def_ enerRech_:4.1 critRate_:2.8 hp_:3.7 
+goblet MartialArtist 4 0 def_ atk_:4.7 hp_:3.7 hp:191.0 
+goblet MartialArtist 4 0 hp_ def:13.0 critDMG_:4.4 def_:4.1 
+goblet MartialArtist 4 0 def_ atk:16.0 eleMas:15.0 critRate_:3.1 
+goblet MartialArtist 4 0 electro_dmg_ atk:12.0 def_:4.7 hp_:3.3 
+goblet MartialArtist 4 0 geo_dmg_ critDMG_:5.0 hp:167.0 
+goblet MartialArtist 4 0 physical_dmg_ enerRech_:4.7 critRate_:2.2 
+goblet MartialArtist 4 0 hp_ critDMG_:6.2 atk:12.0 
+goblet MartialArtist 4 0 physical_dmg_ eleMas:17.0 hp_:3.7 
+goblet MartialArtist 4 0 geo_dmg_ hp:215.0 def:17.0 
+goblet MartialArtist 4 0 cryo_dmg_ hp:215.0 def:15.0 
+goblet MartialArtist 4 0 physical_dmg_ hp_:3.7 def:13.0 
+goblet MartialArtist 4 0 physical_dmg_ hp:215.0 def:19.0 
+goblet MartialArtist 4 0 def_ def:15.0 eleMas:15.0 
+goblet MartialArtist 4 0 physical_dmg_ atk_:3.7 hp_:4.7 
+goblet MartialArtist 4 0 anemo_dmg_ atk:16.0 def:19.0 
+goblet MartialArtist 4 0 def_ atk:14.0 hp:239.0 
+goblet MartialArtist 4 0 def_ atk:11.0 eleMas:17.0 
+goblet MartialArtist 4 0 hp_ hp:239.0 atk:12.0 
+goblet MartialArtist 4 0 physical_dmg_ atk:12.0 critRate_:2.5 
+goblet MartialArtist 4 0 electro_dmg_ atk:14.0 enerRech_:5.2 
+goblet MartialArtist 4 0 cryo_dmg_ atk_:3.3 def_:4.7 
+goblet MartialArtist 4 0 anemo_dmg_ def_:4.1 atk_:4.2 
+goblet MartialArtist 4 0 hp_ atk:16.0 def_:4.7 
+goblet MartialArtist 4 0 hp_ def:13.0 critRate_:2.5 
+goblet MartialArtist 4 0 def_ atk_:3.7 hp_:3.3 
+goblet MartialArtist 4 0 hp_ def_:5.8 enerRech_:5.2 
+goblet MartialArtist 4 0 atk_ enerRech_:4.7 atk:14.0 
+goblet MartialArtist 4 0 atk_ atk:11.0 hp_:4.2 
+goblet MartialArtist 4 0 atk_ eleMas:19.0 def_:5.8 
+goblet MartialArtist 4 0 def_ critRate_:2.8 atk_:3.7 
+goblet MartialArtist 4 0 atk_ hp:239.0 def_:5.3 
+goblet MartialArtist 4 0 atk_ critRate_:2.5 eleMas:19.0 
+goblet MartialArtist 4 0 hp_ enerRech_:5.2 hp:239.0 
+goblet MartialArtist 4 0 def_ enerRech_:4.1 hp_:4.7 
+goblet MartialArtist 4 0 hp_ hp:215.0 def_:4.1 
+circlet MartialArtist 4 0 critRate_ enerRech_:3.6 hp:191.0 def_:5.8 
+circlet MartialArtist 4 0 eleMas hp:215.0 def:17.0 critRate_:3.1 
+circlet MartialArtist 4 0 heal_ def:17.0 atk:14.0 atk_:4.2 
+circlet MartialArtist 4 0 hp_ hp:239.0 atk_:4.7 atk:12.0 
+circlet MartialArtist 4 0 atk_ critDMG_:5.6 eleMas:19.0 
+circlet MartialArtist 4 0 atk_ enerRech_:4.1 critRate_:2.2 
+circlet MartialArtist 4 0 def_ atk:11.0 hp:191.0 
+circlet MartialArtist 4 0 critRate_ hp_:4.7 critDMG_:4.4 
+circlet MartialArtist 4 0 def_ atk_:4.7 critDMG_:5.6 
+circlet MartialArtist 4 0 atk_ atk:14.0 enerRech_:5.2 
+circlet MartialArtist 4 0 atk_ enerRech_:3.6 atk:16.0 
+circlet MartialArtist 4 0 critDMG_ def:17.0 atk:11.0 
+circlet MartialArtist 4 0 def_ hp_:3.3 eleMas:15.0 
+circlet MartialArtist 4 0 atk_ hp:191.0 atk:14.0 
+circlet MartialArtist 4 0 critRate_ hp_:4.2 hp:215.0 
+circlet MartialArtist 4 0 hp_ eleMas:17.0 def_:4.1 
+circlet MartialArtist 4 0 def_ hp:215.0 critRate_:2.5 
+circlet MartialArtist 4 0 critDMG_ atk:16.0 def:13.0 
+circlet MartialArtist 4 0 atk_ def:15.0 critRate_:2.8 
+circlet MartialArtist 4 0 atk_ def_:5.3 enerRech_:5.2 
+circlet MartialArtist 4 0 atk_ atk:12.0 def:13.0 
+circlet MartialArtist 4 0 def_ atk:14.0 eleMas:13.0 
+circlet MartialArtist 4 0 def_ def:17.0 enerRech_:5.2 
+circlet MartialArtist 4 0 heal_ hp:239.0 atk:11.0 
+circlet MartialArtist 4 0 hp_ atk:11.0 hp:215.0 
+circlet MartialArtist 4 0 atk_ atk:16.0 hp:191.0 
+circlet MartialArtist 4 0 heal_ def:19.0 atk:16.0 
+circlet MartialArtist 4 0 def_ def:13.0 hp:239.0 
+circlet MartialArtist 4 0 atk_ enerRech_:4.1 hp:191.0 
+circlet MartialArtist 4 0 def_ hp_:4.2 def:19.0 
+circlet MartialArtist 4 0 hp_ hp:191.0 atk:11.0 
+circlet MartialArtist 4 0 def_ hp:167.0 atk:16.0 
+circlet MartialArtist 4 0 heal_ enerRech_:3.6 atk:12.0 
+circlet MartialArtist 4 0 atk_ enerRech_:4.1 def:15.0 
+circlet MartialArtist 4 0 def_ enerRech_:5.2 def:15.0 
+circlet MartialArtist 4 0 atk_ hp:167.0 enerRech_:3.6 
+flower Berserker 4 0 hp eleMas:19.0 def_:4.7 hp_:3.3 
+flower Berserker 4 0 hp atk:12.0 atk_:3.3 
+flower Berserker 4 0 hp eleMas:17.0 atk_:3.3 
+flower Berserker 4 0 hp eleMas:15.0 hp_:3.3 
+flower Berserker 4 0 hp def:15.0 critRate_:2.8 
+flower Berserker 4 0 hp critRate_:2.2 eleMas:15.0 
+flower Berserker 4 0 hp enerRech_:4.7 def_:4.1 
+flower Berserker 4 0 hp eleMas:13.0 atk:16.0 
+plume Berserker 4 0 atk hp:239.0 def_:5.3 hp_:3.7 
+plume Berserker 4 0 atk hp:191.0 hp_:3.7 def:15.0 
+plume Berserker 4 0 atk enerRech_:3.6 def:17.0 critRate_:3.1 
+plume Berserker 4 0 atk hp:191.0 enerRech_:3.6 
+plume Berserker 4 0 atk eleMas:17.0 critRate_:2.8 
+plume Berserker 4 0 atk hp:239.0 eleMas:15.0 
+plume Berserker 4 0 atk hp_:3.3 critRate_:3.1 
+plume Berserker 4 0 atk critDMG_:5.6 def:15.0 
+plume Berserker 4 0 atk def:13.0 hp_:4.2 
+plume Berserker 4 0 atk critDMG_:5.0 hp:239.0 
+plume Berserker 4 0 atk enerRech_:4.7 hp_:4.7 
+plume Berserker 4 0 atk def:15.0 hp_:3.7 
+plume Berserker 4 0 atk enerRech_:4.7 atk_:3.3 
+sands Berserker 4 0 hp_ def:19.0 atk_:3.3 enerRech_:4.1 
+sands Berserker 4 0 atk_ def_:4.1 atk:12.0 critDMG_:4.4 
+sands Berserker 4 0 hp_ atk_:3.7 critRate_:2.2 def:19.0 
+sands Berserker 4 0 atk_ hp_:3.7 critRate_:2.8 critDMG_:4.4 
+sands Berserker 4 0 def_ eleMas:19.0 enerRech_:4.1 
+sands Berserker 4 0 atk_ def:13.0 atk:12.0 
+sands Berserker 4 0 enerRech_ def:13.0 atk:14.0 
+sands Berserker 4 0 atk_ critRate_:2.2 critDMG_:5.0 
+sands Berserker 4 0 atk_ def_:5.3 eleMas:19.0 
+sands Berserker 4 0 atk_ hp:191.0 critDMG_:6.2 
+sands Berserker 4 0 def_ hp:215.0 critDMG_:5.0 
+sands Berserker 4 0 def_ hp:167.0 eleMas:17.0 
+sands Berserker 4 0 def_ eleMas:13.0 hp:167.0 
+sands Berserker 4 0 def_ eleMas:13.0 hp:167.0 
+sands Berserker 4 0 hp_ def:17.0 eleMas:13.0 
+sands Berserker 4 0 atk_ enerRech_:3.6 def:15.0 
+goblet Berserker 4 0 def_ enerRech_:4.1 def:17.0 atk_:3.3 
+goblet Berserker 4 0 physical_dmg_ atk:16.0 atk_:3.3 def_:4.1 
+goblet Berserker 4 0 atk_ hp:239.0 def:15.0 def_:4.1 
+goblet Berserker 4 0 hydro_dmg_ def:15.0 critDMG_:5.6 
+goblet Berserker 4 0 atk_ def:15.0 hp:215.0 
+goblet Berserker 4 0 geo_dmg_ enerRech_:4.1 hp:191.0 
+goblet Berserker 4 0 hp_ critRate_:2.8 hp:239.0 
+goblet Berserker 4 0 def_ hp:215.0 enerRech_:5.2 
+goblet Berserker 4 0 cryo_dmg_ critDMG_:5.6 hp:239.0 
+goblet Berserker 4 0 hp_ atk:12.0 def:17.0 
+goblet Berserker 4 0 atk_ critRate_:2.2 hp_:3.7 
+goblet Berserker 4 0 def_ atk_:4.2 hp_:3.7 
+goblet Berserker 4 0 electro_dmg_ def_:5.3 hp:191.0 
+circlet Berserker 4 0 hp_ atk:12.0 def:13.0 critDMG_:4.4 
+circlet Berserker 4 0 critRate_ atk:12.0 def_:4.7 hp_:4.2 
+circlet Berserker 4 0 def_ hp:167.0 atk:14.0 atk_:3.3 
+circlet Berserker 4 0 atk_ def_:4.7 critRate_:2.5 hp:215.0 
+circlet Berserker 4 0 def_ hp:215.0 critRate_:2.5 atk_:3.7 
+circlet Berserker 4 0 heal_ hp_:4.2 def_:5.8 eleMas:15.0 
+circlet Berserker 4 0 eleMas atk:16.0 enerRech_:3.6 
+circlet Berserker 4 0 def_ def:17.0 atk:14.0 
+circlet Berserker 4 0 critRate_ hp:167.0 enerRech_:3.6 
+circlet Berserker 4 0 atk_ atk:14.0 enerRech_:5.2 
+circlet Berserker 4 0 hp_ def:15.0 critDMG_:5.0 
+circlet Berserker 4 0 hp_ enerRech_:5.2 eleMas:13.0 
+circlet Berserker 4 0 hp_ critDMG_:5.0 hp:167.0 
+circlet Berserker 4 0 def_ eleMas:15.0 atk_:3.3 
+circlet Berserker 4 0 hp_ def:19.0 enerRech_:4.7 
+circlet Berserker 4 0 def_ enerRech_:4.1 atk_:3.7 
+circlet Berserker 4 0 hp_ atk:11.0 eleMas:13.0 
+circlet Berserker 4 0 atk_ critRate_:2.2 hp:191.0 
+circlet Berserker 4 0 hp_ enerRech_:5.2 def_:4.1 
+flower TinyMiracle 4 0 hp hp_:4.7 def:15.0 critDMG_:6.2 
+flower TinyMiracle 4 0 hp enerRech_:4.7 atk:12.0 
+flower TinyMiracle 4 0 hp def:19.0 atk_:3.3 
+flower TinyMiracle 4 0 hp enerRech_:5.2 def_:4.7 
+flower TinyMiracle 4 0 hp critRate_:3.1 critDMG_:6.2 
+flower TinyMiracle 4 0 hp eleMas:19.0 atk:11.0 
+flower TinyMiracle 4 0 hp enerRech_:5.2 critRate_:2.2 
+flower TinyMiracle 4 0 hp critRate_:3.1 atk_:4.2 
+flower TinyMiracle 4 0 hp atk_:4.7 eleMas:13.0 
+plume TinyMiracle 4 0 atk critDMG_:4.4 def:13.0 def_:4.7 
+plume TinyMiracle 4 0 atk atk_:4.7 def_:4.7 
+plume TinyMiracle 4 0 atk critDMG_:5.0 atk_:4.2 
+plume TinyMiracle 4 0 atk hp:215.0 def_:5.3 
+sands TinyMiracle 4 0 def_ hp_:3.7 critDMG_:4.4 atk_:4.2 
+sands TinyMiracle 4 0 atk_ critDMG_:6.2 def:17.0 
+sands TinyMiracle 4 0 def_ hp_:3.7 enerRech_:4.7 
+sands TinyMiracle 4 0 hp_ def_:4.1 atk_:4.7 
+sands TinyMiracle 4 0 atk_ hp:239.0 hp_:3.3 
+sands TinyMiracle 4 0 def_ critRate_:2.8 hp_:3.3 
+sands TinyMiracle 4 0 def_ critDMG_:4.4 def:19.0 
+goblet TinyMiracle 4 0 geo_dmg_ critRate_:2.2 atk_:3.7 eleMas:19.0 
+goblet TinyMiracle 4 0 hp_ def_:4.7 def:17.0 
+goblet TinyMiracle 4 0 cryo_dmg_ atk:12.0 hp:239.0 
+goblet TinyMiracle 4 0 physical_dmg_ critRate_:2.8 eleMas:15.0 
+goblet TinyMiracle 4 0 anemo_dmg_ def:15.0 def_:4.7 
+goblet TinyMiracle 4 0 physical_dmg_ enerRech_:5.2 def_:5.3 
+circlet TinyMiracle 4 0 critRate_ def_:4.7 eleMas:19.0 critDMG_:5.6 
+circlet TinyMiracle 4 0 heal_ hp:167.0 eleMas:13.0 
+circlet TinyMiracle 4 0 heal_ enerRech_:3.6 def_:5.3 
+circlet TinyMiracle 4 0 def_ enerRech_:3.6 atk:11.0 
+flower DefendersWill 4 0 hp atk_:4.2 eleMas:15.0 enerRech_:5.2 
+flower DefendersWill 4 0 hp enerRech_:4.1 atk:14.0 def_:5.3 
+flower DefendersWill 4 0 hp eleMas:17.0 def_:5.3 def:19.0 
+flower DefendersWill 4 0 hp eleMas:13.0 critDMG_:6.2 enerRech_:5.2 
+flower DefendersWill 4 0 hp def:17.0 atk:14.0 def_:4.1 
+flower DefendersWill 4 0 hp atk:11.0 enerRech_:5.2 def:13.0 
+flower DefendersWill 4 0 hp def_:4.7 critRate_:3.1 def:15.0 
+flower DefendersWill 4 0 hp eleMas:17.0 def:15.0 
+flower DefendersWill 4 0 hp def_:5.3 critRate_:3.1 
+flower DefendersWill 4 0 hp hp_:3.7 critRate_:2.5 
+flower DefendersWill 4 0 hp critRate_:3.1 enerRech_:3.6 
+flower DefendersWill 4 0 hp eleMas:19.0 atk:11.0 
+flower DefendersWill 4 0 hp def:13.0 eleMas:17.0 
+flower DefendersWill 4 0 hp def_:4.7 def:13.0 
+flower DefendersWill 4 0 hp critDMG_:6.2 def:17.0 
+flower DefendersWill 4 0 hp enerRech_:4.1 atk_:3.3 
+flower DefendersWill 4 0 hp def:17.0 atk_:3.3 
+flower DefendersWill 4 0 hp def_:4.7 critDMG_:5.0 
+flower DefendersWill 4 0 hp def:13.0 atk:14.0 
+flower DefendersWill 4 0 hp atk_:3.7 enerRech_:5.2 
+flower DefendersWill 4 0 hp atk:16.0 def:15.0 
+plume DefendersWill 4 0 atk def:13.0 atk_:3.3 critRate_:2.5 
+plume DefendersWill 4 0 atk def_:4.1 eleMas:15.0 hp:167.0 
+plume DefendersWill 4 0 atk hp:239.0 enerRech_:4.1 def:13.0 
+plume DefendersWill 4 0 atk enerRech_:5.2 hp:239.0 critDMG_:5.0 
+plume DefendersWill 4 0 atk hp:191.0 atk_:4.2 hp_:4.2 
+plume DefendersWill 4 0 atk hp_:3.3 eleMas:19.0 
+plume DefendersWill 4 0 atk def_:5.8 def:19.0 
+plume DefendersWill 4 0 atk hp_:3.7 hp:167.0 
+plume DefendersWill 4 0 atk eleMas:15.0 def_:5.3 
+plume DefendersWill 4 0 atk enerRech_:4.1 def_:4.1 
+plume DefendersWill 4 0 atk def:15.0 hp:191.0 
+plume DefendersWill 4 0 atk def:15.0 enerRech_:4.1 
+plume DefendersWill 4 0 atk hp_:3.3 eleMas:15.0 
+plume DefendersWill 4 0 atk critDMG_:5.6 def_:4.7 
+plume DefendersWill 4 0 atk atk_:4.2 def_:4.1 
+plume DefendersWill 4 0 atk hp:167.0 def:17.0 
+plume DefendersWill 4 0 atk hp:215.0 def:19.0 
+plume DefendersWill 4 0 atk critDMG_:5.6 hp:167.0 
+plume DefendersWill 4 0 atk def:17.0 enerRech_:5.2 
+plume DefendersWill 4 0 atk critDMG_:4.4 hp_:4.2 
+sands DefendersWill 4 0 def_ atk_:4.7 def:13.0 hp_:3.7 
+sands DefendersWill 4 0 hp_ atk_:4.2 atk:16.0 enerRech_:3.6 
+sands DefendersWill 4 0 def_ atk:16.0 atk_:4.7 critRate_:3.1 
+sands DefendersWill 4 0 hp_ def:19.0 enerRech_:5.2 atk:11.0 
+sands DefendersWill 4 0 hp_ hp:239.0 eleMas:19.0 atk_:3.7 
+sands DefendersWill 4 0 def_ atk:14.0 hp:239.0 enerRech_:3.6 
+sands DefendersWill 4 0 def_ atk_:4.7 enerRech_:5.2 def:13.0 
+sands DefendersWill 4 0 def_ hp:167.0 atk_:4.7 
+sands DefendersWill 4 0 atk_ hp_:4.7 hp:239.0 
+sands DefendersWill 4 0 def_ eleMas:13.0 hp:215.0 
+sands DefendersWill 4 0 hp_ atk_:4.2 def:19.0 
+sands DefendersWill 4 0 hp_ eleMas:19.0 def:15.0 
+sands DefendersWill 4 0 def_ def:13.0 atk:12.0 
+sands DefendersWill 4 0 enerRech_ def:17.0 eleMas:15.0 
+sands DefendersWill 4 0 def_ critRate_:2.2 critDMG_:4.4 
+sands DefendersWill 4 0 hp_ def_:5.8 def:15.0 
+sands DefendersWill 4 0 def_ eleMas:19.0 atk:12.0 
+sands DefendersWill 4 0 hp_ def:19.0 critRate_:3.1 
+sands DefendersWill 4 0 hp_ critDMG_:5.6 atk:11.0 
+sands DefendersWill 4 0 eleMas def:13.0 hp:215.0 
+sands DefendersWill 4 0 def_ atk_:3.7 def:19.0 
+goblet DefendersWill 4 0 cryo_dmg_ critDMG_:5.6 atk:11.0 hp_:3.7 
+goblet DefendersWill 4 0 def_ def:17.0 hp_:4.7 enerRech_:3.6 
+goblet DefendersWill 4 0 eleMas critDMG_:5.0 enerRech_:4.1 
+goblet DefendersWill 4 0 atk_ eleMas:19.0 def_:5.3 
+goblet DefendersWill 4 0 geo_dmg_ atk_:3.3 eleMas:13.0 
+goblet DefendersWill 4 0 hp_ def_:5.8 hp:239.0 
+goblet DefendersWill 4 0 geo_dmg_ atk:12.0 enerRech_:3.6 
+goblet DefendersWill 4 0 physical_dmg_ critDMG_:6.2 enerRech_:3.6 
+goblet DefendersWill 4 0 hydro_dmg_ atk_:3.7 def_:5.8 
+goblet DefendersWill 4 0 hp_ eleMas:13.0 atk:16.0 
+goblet DefendersWill 4 0 hp_ atk:12.0 hp:215.0 
+goblet DefendersWill 4 0 def_ critDMG_:5.6 hp_:3.3 
+goblet DefendersWill 4 0 pyro_dmg_ atk:12.0 enerRech_:3.6 
+goblet DefendersWill 4 0 def_ critRate_:2.8 atk_:3.7 
+goblet DefendersWill 4 0 atk_ hp:191.0 def_:5.8 
+circlet DefendersWill 4 0 def_ hp:215.0 atk:16.0 
+circlet DefendersWill 4 0 def_ hp:167.0 atk:16.0 
+circlet DefendersWill 4 0 def_ def:19.0 atk:11.0 
+circlet DefendersWill 4 0 critRate_ eleMas:13.0 atk:11.0 
+circlet DefendersWill 4 0 heal_ def:15.0 atk:12.0 
+circlet DefendersWill 4 0 def_ critRate_:2.8 eleMas:17.0 
+circlet DefendersWill 4 0 def_ def:17.0 critRate_:2.8 
+flower ResolutionOfSojourner 4 0 hp critDMG_:4.4 atk_:3.3 eleMas:13.0 
+flower ResolutionOfSojourner 4 0 hp atk:14.0 enerRech_:3.6 
+flower ResolutionOfSojourner 4 0 hp atk_:4.7 eleMas:19.0 
+flower ResolutionOfSojourner 4 0 hp def_:4.1 atk_:3.3 
+plume ResolutionOfSojourner 4 0 atk def:13.0 critRate_:2.8 
+plume ResolutionOfSojourner 4 0 atk def:15.0 enerRech_:4.1 
+sands ResolutionOfSojourner 4 0 def_ critDMG_:5.6 hp:215.0 hp_:4.2 
+sands ResolutionOfSojourner 4 0 hp_ eleMas:13.0 atk_:3.7 
+sands ResolutionOfSojourner 4 0 eleMas def:15.0 atk:14.0 
+goblet ResolutionOfSojourner 4 0 physical_dmg_ enerRech_:3.6 hp:191.0 atk:16.0 
+goblet ResolutionOfSojourner 4 0 atk_ critRate_:2.2 hp:191.0 enerRech_:4.1 
+goblet ResolutionOfSojourner 4 0 atk_ eleMas:13.0 def:17.0 
+circlet ResolutionOfSojourner 4 0 atk_ def_:4.7 def:19.0 
+circlet ResolutionOfSojourner 4 0 heal_ eleMas:17.0 atk:16.0 

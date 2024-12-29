@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1735471166 source:d:\mf_learning\telkom university\matkul\semester 3\aka\progam\optimisasi_recursive\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<limits>
+	<map>
+	<chrono>
+

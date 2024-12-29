@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1735471566 source:d:\mf_learning\telkom university\matkul\semester 3\aka\progam\optimisasi_iterative\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<sstream>
+	<limits>
+	<chrono>
+
