@@ -128,7 +128,7 @@ vector<vector<Artifact>> loadArtifacts(const string &filename) {
 }
 
 int main() {
-    string filename = "../../data_observasi/artifacts.txt";
+    string filename = "../artifacts.txt";
     vector<vector<Artifact>> artifactsBySlot = loadArtifacts(filename);
 
     if (artifactsBySlot.empty()) {
